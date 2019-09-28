@@ -1,4 +1,81 @@
-﻿1 ^Updating FreeSO^
+﻿//In het Nederlands
+
+1 ^FreeSO bijwerken^
+2 ^Downloaden %s, (%s/%s, %s/%s file(s))^
+
+//Update vereist Texts
+3 ^Update vereist^
+
+4 ^De server waarmee u verbinding maakt vereist dat versie %s van de %s branch geïnstalleerd is (u heeft momenteel versie %s van de %s branch). De server heeft een locatie beschikbaar gesteld waar u deze versie kunt downloaden. Wilt u deze update downloaden en toepassen?
+
+Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
+
+5 ^Vereiste inhoudspakketten^
+6 ^De server waarmee u verbinding maakt vereist deze inhoudspakketten: %s
+
+Deze kunnen worden gedownload van de server. Wilt u verdergaan?
+Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze inhoudspakketten niet wilt installeren, keert u terug naar het inlogscherm.^
+
+7 ^Herstart nodig^
+8 ^Je sluit je aan bij een server met een andere set content packs dan de laatste server waarmee je verbonden was. Het spel moet opnieuw worden gestart om de gegevens van de laatste server te wissen.^
+
+//Update bijwerken
+9 ^Bestanden downloaden^
+10 ^Bijwerken^
+11 ^Versie Waarschuwing^
+12 ^Je hebt ervoor gekozen om versieverschillen te negeren. Merk op dat dit geen invloed heeft op de gameplay aan de serverzijde, maar kan leiden tot meer desyncs, crashes en onverwacht gedrag aan de client zijde. Dit moet je alleen doen voor ontwikkelingsdoeleinden!^
+13 ^Het spel zal nu opnieuw beginnen. Klik op OK om de update te beginnen.^
+
+//TSO Versie Fout
+14 ^Onjuist TSO-versie^
+15 ^FreeSO vereist bestanden van The Sims Online om te draaien. FreeSO heeft deze bestanden wel gedetecteerd, maar met versie '%s', wanneer FreeSO versie '1.1097.1.0' verwacht. 
+
+%s
+
+(je kunt dit negeren door op de cheat combo van TS1 te drukken, maar het is DEV ALLEEN omdat je spel waarschijnlijk gewoon zal crashen.) ^^
+
+//Patch is beschikbaar
+16 ^Een patch is beschikbaar om uw TSO-versie om te zetten in de juiste versie. Deze zal worden toegepast als u op OK klikt. (voer deze bewerking slechts eenmaal uit)^
+17 ^Je versie kon niet worden geïdentificeerd, dus de FreeSO-client weet niet wat hij ermee moet doen. Ga naar http://freeso.org voor de juiste manier om TSO-bestanden te downloaden. (meestal via een launcher)^
+18 ^Patchen van TSO-bestanden..^
+
+//Fout: Fatale
+19 ^Fatale fout^
+20 ^Een fatale fout is opgetreden tijdens het patchen van het spel:
+
+%s
+
+Als De Sims Online is geïnstalleerd in Program Files, zorg er dan voor dat FreeSO als admin draait (dit is de standaardinstelling bij gebruik van de launcher). Als u een antivirusprogramma hebt geïnstalleerd, kan het FreeSO ook verhinderen om bestanden in programmabestanden te wijzigen - probeer een uitzondering voor FreeSO.exe en update.exe toe te voegen, of schakel deze helemaal uit bij het bijwerken van FreeSO (laatste redmiddel!).^
+
+//Update vereist
+21 ^Update vereist^
+22 ^De server waarmee u verbinding maakt, vereist de installatie van versie %s. Gezien uw huidige versie (%s) is het volgende updatepad gevonden:
+
+%s
+
+Wilt u deze update downloaden en toepassen?
+Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
+
+//Update types
+23 ^(delta) ^
+23 ^(volledig) ^
+25 ^(volledig - ontbrekende delta-informatie) ^
+26 ^(huidige) ^
+
+27 ^Het verkrijgen van update informatie....^
+28 ^Het bestand %s kon niet worden gedownload of was leeg/verstoord. U keert nu terug naar het inlogscherm.^
+29 ^ Manifest^
+
+//Update mislukt
+30 ^Updater is mislukt!^
+31 ^Het updateprogramma kon niet worden geopend. Als u antivirussoftware hebt, probeer dan realtime bescherming uit te schakelen of een uitzondering toe te voegen voor FreeSO.exe en update.exe. Als u nog steeds problemen ondervindt, opent u update.exe handmatig vanuit de FreeSO-map. (als beheerder als u in de programmabestanden hebt geïnstalleerd)
+
+Foutmelding:
+%s^^
+
+
+//Het Engles Versie
+/* 1 ^Updating FreeSO^
 2 ^Downloading %s, (%s/%s, %s/%s file(s)) ^
 
 3 ^Update Required^
@@ -61,4 +138,4 @@ Remember that you should only install updates and content packs from servers you
 31 ^The updater could not be opened. If you have anti-virus software, try disabling real-time protection or adding an exception for FreeSO.exe and update.exe. If you still experience problems, open up update.exe from the FreeSO folder manually. (as administrator if you have installed in Program Files)
 
 Error Message:
-%s^
+%s^*/
