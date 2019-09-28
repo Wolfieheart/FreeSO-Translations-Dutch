@@ -1,0 +1,19 @@
+﻿//In Dutch
+1 ^Uw vriend telt mee:
+
+%s Vrienden
+%s Vijanden
+
+Vriendschapsweb komt binnenkort! ^
+
+2 ^FreeSO lijkt gesloten te zijn voordat je succesvol het spel hebt betreden. Hierdoor hebben we alle graphics verlaagd naar hun minimale staat. U kunt waarschijnlijk zonder problemen "Surrounding Lots" verhogen, maar het is niet aan te raden om de FSO verlichting weer aan te zetten. Als uw spel niet gecrasht is, kunt u dit bericht misschien negeren.^
+
+/* Engles Versie
+1 ^Your friend count:
+
+%s Friends
+%s Enemies
+
+Friendship web coming soon!^
+2 ^FreeSO appears to have closed before you successully entered the game. Due to this, we have lowered all graphics to their minimum state. You can likely increase "Surrounding Lots" without issue, though it is not recommended to re-enable FSO lighting. If your game did not crash, you may be able to ignore this message.^
+*/
