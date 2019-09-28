@@ -1,4 +1,45 @@
-﻿1 ^Surrounding Lots^
+﻿//Dutch Strings
+1 ^Omringende Kavels^
+2 ^Stadsschaduwen^
+3 ^FSO Verlichting^
+4 ^Schaduw Detail^
+5 ^Forceren Z-Order^
+6 ^Vlotte Zoom^
+7 ^Object Schaduwen^
+
+//NL: Omringende Lot Opties
+8 ^Geen omliggende lots. Grijze leegte wordt buiten de lot getrokken.^
+9 ^Lege omliggende lots. (alleen grond en bomen) ^
+10 ^Volledige omliggende lots. (architectuur, buiten objecten) ^
+
+11 ^3D schaduwen^
+12 ^Stad Skybox^
+
+13 ^Aanpassen DPI-schaal^ 
+14 ^Schakelen naar 3D-modus ^ 
+15 ^Schakelen naar 2D-modus ^ 
+
+16 ^Gevorderde Verlichting: ^
+17 ^Off/FSO/+Walls/+Objs^
+18 ^Directionele verlichting^
+
+19 ^Toggle-instellingen: ^
+20 ^Weer^
+21 ^Grafische opties^
+22 ^Detail:^
+
+23 ^Textuurcompressie^
+24 ^Enables DXT5 Textuurcompressie voor muren, vloeren en objecten. Sprites nemen 1/4 van de VRAM in beslag ten koste van de visuele kwaliteit. Handig voor het vermijden van crashes op Intel HD Graphics of oude GPU's.^
+25 ^Deze optie zal niet volledig van kracht worden totdat u het spel opnieuw opstart! ^ Deze optie zal niet volledig van kracht worden totdat u het spel herstart!^
+
+26 ^Complex Shaders^
+27 ^Biedt verschillende complexe effecten voor high-end GPU's.
+- Parallax+Normal mapping voor daken en gras
+- Alle toekomstige compex shaders toegevoegd aan het spel^
+
+//Engles
+
+/*1 ^Surrounding Lots^
 2 ^City Shadows^
 3 ^FSO Lighting^
 4 ^Shadow Detail^
@@ -34,3 +75,4 @@
 27 ^Enables several complex effects for high end GPUs.
 - Parallax+Normal mapping for Roofs and Grass
 - Any future compex shaders added to the game^
+*/
