@@ -1,5 +1,44 @@
-﻿
-1 ^Error^
+﻿1 ^Fout^
+2 ^Je woont niet in deze buurt!^
+3 ^Deze verkiezing / nominatie is gesloten. Kijk op de buurtpagina voor updates!^ //ELECTION_OVER
+4 ^De kandidaat die u heeft gekozen woont niet in deze buurt. Selecteer a.u.b. iemand anders.^
+5 ^De kandidaat die u hebt gekozen om op te stemmen is niet genomineerd. Selecteer a.u.b. iemand anders.^
+6 ^U heeft al gestemd in dit deel van de verkiezing! Stemmen is definitief, dus je moet wachten tot het allemaal voorbij is. ^
+7 ^Een andere gebruiker of sim op een account met betrekking tot uw account heeft al gestemd voor een sim in deze verkiezing. Om vulling van stembiljetten te voorkomen, kunnen accounts of sims die gerelateerd zijn aan elkaar niet stemmen in dezelfde verkiezing.^
+8 ^Deze verkiezingscyclus is een andere fase ingegaan. Kijk op de buurtpagina voor updates!^
+
+9 ^De sim die u probeert te beoordelen is niet de burgemeester van uw buurt. Kijk op de pagina van de buurt - als u dit ziet is het waarschijnlijk dat de burgemeester een update heeft gekregen sinds u met de beoordeling bent begonnen.^
+10 ^De beoordeling die je hebt ingediend is ongeldig, op de een of andere manier. Beoordelingen moeten van 0-10 halve sterren zijn, en opmerkingen moeten niet te lang zijn.^
+11 ^Je kunt jezelf niet beoordelen. Kom op, echt waar? ^
+
+12 ^U kan niet meedoen aan de verkiezingen omdat u niet genoeg nominaties heeft gekregen voor deze verkiezingscyclus. ^
+13 ^U bent al kandidaat voor deze verkiezing - u hoeft deze niet opnieuw te aanvaarden.^
+14 ^Uw commentaar is ongeldig - het mag maximaal 200 tekens lang zijn.^
+
+15 ^Alleen moderatoren kunnen deze actie uitvoeren.^
+16 ^Kon de beoogde avatar niet vinden.^
+17 ^Kon de doelbuurt niet vinden.^
+
+18 ^Je kunt deze actie niet uitvoeren omdat je geschorst bent voor de gameplay in de buurt.
+
+Duur: %s
+Reden: %s^
+19 ^De sim waar u op probeert te stemmen is onlangs (de laatste 30 dagen) verhuisd, dus ze zijn vrijgesteld van de buurtgameplay.^
+20 ^U bent nog niet in staat om dit te doen - om deel te nemen aan verkiezingen als kiezer of kandidaat, moet u ten minste 30 dagen in de buurt hebben gewoond.^
+
+21 ^De sim waar u op probeert te stemmen is momenteel niet in staat om deel te nemen aan verkiezingen.^
+22 ^Een entiteit die nodig was voor deze actie kon niet worden gevonden - misschien is er iets verwijderd terwijl we aan het werk waren. Probeer het later nog eens.^
+
+23 ^De buurt die u heeft geselecteerd heeft geen lopende verkiezingen. Probeer het opnieuw.^
+24 ^U bent al ingeschreven voor een vrije stemming in deze verkiezingsronde. Check je bevestigingsmail voor meer informatie!^
+25 ^Uw buurt heeft zijn eigen verkiezingen, dus u kunt niet vrij stemmen.^
+26 ^U mag zich niet inschrijven voor een vrije stemming als u na het begin van de verkiezingscyclus in de buurt bent verhuisd. Sorry!^
+27 ^Er zijn geen verkiezingen waar je gebruik kunt maken van een vrij stemrecht kunt maken. Probeer het later nog eens.^
+
+28 ^An unknown error has occured. This has been logged on the server, so you should probably report the issue and what you were requesting so we can look into it.^
+
+
+/*1 ^Error^
 2 ^You don't live in this neighborhood!^ //NOT_IN_NHOOD
 3 ^This election/nomination has closed. Please check the neighborhood page for updates!^ //ELECTION_OVER
 4 ^The candidate you have chosen does not live in this neighborhood. Please select someone else.^
@@ -37,3 +76,4 @@ Reason: %s^
 27 ^There are no elections you can use a Free Vote in. Please try again later.^
 
 28 ^An unknown error has occured. This has been logged on the server, so you should probably report the issue and what you were requesting so we can look into it.^
+*/
