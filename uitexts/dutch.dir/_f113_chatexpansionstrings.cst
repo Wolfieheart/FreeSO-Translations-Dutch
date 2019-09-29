@@ -1,4 +1,71 @@
-﻿//Chat Panel
+﻿//Chat Paneel
+1 ^Tekst naar spraak: ^
+2 ^Uit^
+3 ^Aan^
+4 ^Forceren^
+
+5 ^TTS Pitch:^
+6 ^Verandering...^
+7 ^Willekeur^
+
+8 ^Selecteer een Tekstkleur^
+
+//standaardkanalen
+9 ^Chat^
+10 ^Standaard kanaal^
+11 ^Admin^
+12 ^Alleen beheerders^
+
+//channel management buttons (strings here should be VERY SHORT)
+13 ^Wijzig^
+14 ^+^
+15 ^Klaar^
+
+//tooltips
+16 ^Een nieuw kanaal toevoegen.^
+17 ^Wijzigingsmodus verlaten.^
+18 ^Kan het standaardkanaal niet wijzigen.^
+19 ^Klik om dit kanaal te wijzigen.^
+20 ^Chatkanalen toevoegen of wijzigen.^
+
+//edit dialog
+21 ^Kanaal wijzigen ^
+22 ^Naam:^
+23 ^Beschrijving:^
+24 ^Opties:^
+
+25 ^Aan TTS^
+26 ^Standaard tonen^
+//
+//
+//
+//
+//
+//
+
+33 ^Verwijderen^
+34 ^Stel de kleur in^
+
+35 ^Bekijk Machtigingen:^
+36 ^Machtigingen verzenden:^
+
+37 ^Bezoekers^
+38 ^Kamergenoten^
+39 ^Bouwers-Kamergenoten^
+40 ^Alleen voor de eigenaar^
+
+41 ^Aangepast^
+42 ^Een aangepaste chat-kanaal.^
+
+43 ^Verberg Chat. Heropenen met Ctrl-H^
+
+44 ^Chat Tijdsaanduiding: ^
+45 ^Uit^
+46 ^Aan^
+
+47 ^Chat Opaciteit:^
+
+/*//Chat Panel
 
 1 ^Text To Speech: ^
 2 ^Disable^
@@ -64,4 +131,4 @@
 45 ^Off^
 46 ^On^
 
-47 ^Chat Opacity:^
+47 ^Chat Opacity:^*/
