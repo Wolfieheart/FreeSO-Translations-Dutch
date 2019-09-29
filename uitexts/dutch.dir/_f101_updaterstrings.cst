@@ -8,13 +8,13 @@
 
 4 ^De server waarmee u verbinding maakt vereist dat versie %s van de %s branch geïnstalleerd is (u heeft momenteel versie %s van de %s branch). De server heeft een locatie beschikbaar gesteld waar u deze versie kunt downloaden. Wilt u deze update downloaden en toepassen?
 
-Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
+Vergeet niet dat u best alleen updates en inhoudspakketten installeert van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
 
 5 ^Vereiste inhoudspakketten^
 6 ^De server waarmee u verbinding maakt vereist deze inhoudspakketten: %s
 
 Deze kunnen worden gedownload van de server. Wilt u verdergaan?
-Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze inhoudspakketten niet wilt installeren, keert u terug naar het inlogscherm.^
+Vergeet niet dat u best alleen updates en inhoudspakketten installeert van servers die u vertrouwt!  Als u deze inhoudspakketten niet wilt installeren, keert u terug naar het inlogscherm.^
 
 7 ^Herstart nodig^
 8 ^Je sluit je aan bij een server met een andere set content packs dan de laatste server waarmee je verbonden was. Het spel moet opnieuw worden gestart om de gegevens van de laatste server te wissen.^
@@ -24,22 +24,22 @@ Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van serve
 10 ^Bijwerken^
 11 ^Versie Waarschuwing^
 12 ^Je hebt ervoor gekozen om versieverschillen te negeren. Merk op dat dit geen invloed heeft op de gameplay aan de serverzijde, maar kan leiden tot meer desyncs, crashes en onverwacht gedrag aan de client zijde. Dit moet je alleen doen voor ontwikkelingsdoeleinden!^
-13 ^Het spel zal nu opnieuw beginnen. Klik op OK om de update te beginnen.^
+13 ^Het spel zal nu heropstarten. Klik op OK om de update te beginnen.^
 
 //TSO Versie Fout
-14 ^Onjuist TSO-versie^
-15 ^FreeSO vereist bestanden van The Sims Online om te draaien. FreeSO heeft deze bestanden wel gedetecteerd, maar met versie '%s', wanneer FreeSO versie '1.1097.1.0' verwacht. 
+14 ^Onjuiste TSO-versie^
+15 ^FreeSO vereist bestanden van The Sims Online om te werken. FreeSO heeft deze bestanden wel gedetecteerd, maar met versie '%s', wanneer FreeSO versie '1.1097.1.0' verwacht. 
 
 %s
 
-(je kunt dit negeren door op de cheat combo van TS1 te drukken, maar het is DEV ALLEEN omdat je spel waarschijnlijk gewoon zal crashen.) ^^
+(je kunt dit negeren door op de cheat combo van TS1 te drukken, maar het is ENKEL DEV omdat je spel waarschijnlijk gewoon zal crashen.) ^^
 
 //Patch is beschikbaar
-16 ^Een patch is beschikbaar om uw TSO-versie om te zetten in de juiste versie. Deze zal worden toegepast als u op OK klikt. (voer deze bewerking slechts eenmaal uit)^
+16 ^Een patch is beschikbaar om uw TSO-versie om te zetten naar de juiste versie. Deze zal worden toegepast als u op OK klikt. (voer deze bewerking slechts eenmaal uit)^
 17 ^Je versie kon niet worden geïdentificeerd, dus de FreeSO-client weet niet wat hij ermee moet doen. Ga naar http://freeso.org voor de juiste manier om TSO-bestanden te downloaden. (meestal via een launcher)^
 18 ^Patchen van TSO-bestanden..^
 
-//Fout: Fatale
+//Fatale fout
 19 ^Fatale fout^
 20 ^Een fatale fout is opgetreden tijdens het patchen van het spel:
 
@@ -54,7 +54,7 @@ Als De Sims Online is geïnstalleerd in Program Files, zorg er dan voor dat Free
 %s
 
 Wilt u deze update downloaden en toepassen?
-Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
+Vergeet niet dat u best alleen updates en inhoudspakketten installeert van servers die u vertrouwt! Als u deze update niet wilt installeren, keert u terug naar het inlogscherm.^
 
 //Update types
 23 ^(delta) ^
@@ -62,7 +62,7 @@ Vergeet niet dat u alleen updates en inhoudspakketten moet installeren van serve
 25 ^(volledig - ontbrekende delta-informatie) ^
 26 ^(huidige) ^
 
-27 ^Het verkrijgen van update informatie....^
+27 ^Verkrijgen van update informatie....^
 28 ^Het bestand %s kon niet worden gedownload of was leeg/verstoord. U keert nu terug naar het inlogscherm.^
 29 ^ Manifest^
 

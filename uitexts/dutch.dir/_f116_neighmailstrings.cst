@@ -10,77 +10,75 @@
 
 //Verkiezingen meer dan [naar de kiezers gestuurd] (winnaar, naam van de nhood, andere plaatsingen)
 5 ^Uw nieuwe burgemeester!^
-6 De stemmen zijn binnen - %s is nu de burgemeester van %s! Waarom niet vieren op uw gemeentehuis? Uw nieuwe burgemeester zou zich daar moeten installeren. ^ //todo: lopers omhoog?
+6 ^De stemmen zijn binnen - %s is nu de burgemeester van %s! Waarom niet vieren op uw gemeentehuis? Uw nieuwe burgemeester zou daar moeten intrekken. ^ //todo: lopers omhoog?
 
 //player genomineerd [naar genomineerde speler gestuurd] (nhood name, deadline)
-7 ^Loop voor de verkiezingen! ^
-8 ^Gefeliciteerd! U bent genomineerd door 3 of meer spelers om de burgemeester te worden van de buurt waarvan u een inwoner bent: %s. Als u wenst te lopen in de verkiezing, klik op de knop hieronder voor het einde van de nominaties op %s - wanneer de top genomineerde sims zal lopen voor de verkiezing. Zo niet, negeer dit bericht dan gewoon.^
+7 ^Loop doe mee in de verkiezingen! ^
+8 ^Gefeliciteerd! U bent genomineerd door 3 of meer spelers om de burgemeester te worden van de buurt waarvan u een inwoner bent: %s. Als u wenst deel te nemen in de verkiezing, klik op de knop hieronder voor het einde van de nominaties op %s - wanneer de top genomineerde sims zullen deelnemmen aan de verkiezing. Zo niet, negeer dit bericht dan gewoon.^
 
 //nominatie geaccepteerd [na aanvaarding van een nominatie] (nhood name, end date) (nhood name, end date)
 9 ^Nominatie geaccepteerd^
 10 ^Deze e-mail is alleen om te bevestigen dat u uw nominaties voor de burgemeester van %s heeft geaccepteerd. We zullen u laten weten of u de laatste verkiezing met %s hebt gehaald.^
 
 //player lopende bevestiging [verzonden naar speler die zich kandidaat stelt voor verkiezing] (nhood naam, commentaar, einddatum)
-11 ^Rennen voor burgemeester^
-12 ^Gefeliciteerd! U loopt nu voor burgemeester in uw buurt, %s, zoals u tot de top genomineerde sims behoorde! Uw campagne commentaar was "%s", en u zult ontdekken of u won op %s.^
+11 ^Meedoen aan de verkiezing voor burgemeester^
+12 ^Gefeliciteerd! U neemt nu deel aan de verkiezing voor burgemeester, %s, om dat u tot de top genomineerde sims behoorde! Uw campagne slogan was "%s", en u zult ontdekken of u won op %s.^
 
 //player genomineerd maar niet genoeg [verzonden zodra de kandidaten zijn gekozen en de genomineerde speler niet bovenaan staat] (nhood name, einddatum)
 13 ^Niet genoeg Nominaties! ^
-14 ^Helaas bent u niet genoeg keer genomineerd om mee te doen aan de laatste verkiezing voor de procenten. U kunt nog steeds op alle kandidaten stemmen en meehelpen om te beslissen wie er burgemeester wordt op %s.^
+14 ^Helaas bent u onvoldoende genomineerd om mee te doen aan de laatste verkiezing voor %s. U kunt nog steeds op alle kandidaten stemmen en meehelpen om te beslissen wie er burgemeester wordt op %s.^
 
 //Verbod op het spelen in de buurt (reden, duur)
 15 ^BUURTSSPEELVERBOD^
 16 ^Deze e-mail is om u te informeren dat u bent verbannen uit de buurt voor misbruik. 
 Reden: %s
 Looptijd: %s
-Voor meer informatie over de regels rond de buurtspel, zie http://freeso.org/nhoodrules.^
+Voor meer informatie over de regels rond het buurtspel, zie http://freeso.org/nhoodrules.^
 
 //burgemeester termijn eindwaarschuwing (nhood naam, einddatum)
-17 ^Termijnlengteherinnering^
-18 ^Goedemorgen, burgemeester! Dit bericht is alleen om u te informeren dat een andere verkiezingscyclus begint in %s, die zal eindigen op %s. Als u de burgemeester van deze buurt wilt blijven, moet u zich kandidaat stellen voor herverkiezing. U verliest de controle over het gemeentehuis als u niet herkozen wordt, dus zorg ervoor dat u er alles aan gedaan hebt wat u wilt!^
+17 ^Termijnlengte herinnering^
+18 ^Goedemorgen, burgemeester! Dit bericht is alleen om u te informeren dat een andere verkiezingscyclus begint in %s, die zal eindigen op %s. Als u de burgemeester van deze buurt wilt blijven, moet u zich kandidaat stellen voor herverkiezing. U verliest de controle over het gemeentehuis als u niet herkozen wordt, dus zorg ervoor dat u alles, wat u wilt, gedaan hebt!^
 
 //mayor term ended
-19 ^Out met de Oude^ (nieuwe burgemeester naam, nhood naam)
+19 ^Uit met het Oude^ (nieuwe burgemeester naam, nhood naam)
 20 ^De mensen hebben gesproken, en je bent weg! %s is de nieuwe burgemeester van %s. Als u niet-gedoneerde voorwerpen op het gemeentehuis had, zijn deze teruggegeven aan uw inventaris. De witte lijst van de schenker is ook gereset.^
 
-21 ^Geen Langere Burgemeester^ (nhood naam)
+21 ^Niet langer Burgemeester^ (nhood naam)
 22 ^U bent niet langer de burgemeester van %s. Als u niet-gedoneerde voorwerpen op het gemeentehuis had, zijn deze teruggegeven aan uw inventaris. De witte lijst van de schenker is ook gereset.^
 
 23 ^Bedankt! ^ (avatar name, nhood name)
-24 ^Uw nominatie voor %s om burgemeester te worden van %s is geteld. Vergeet niet dat deze stemming definitief is - u kunt ook niet opnieuw stemmen over deze sim, een andere sim of zelfs een familielid zijn account.^
+24 ^Uw nominatie voor %s om burgemeester te worden van %s is geteld. Vergeet niet dat deze stemming definitief is - u kunt ook niet opnieuw stemmen voor deze sim, een andere sim of zelfs een familielid hun account.^
 
-25 ^Bedankt!^(avatar name, nhood name)
-26 ^Uw stem voor %s om burgemeester te worden van %s is geteld. Vergeet niet dat deze stemming definitief is - u kunt ook niet opnieuw stemmen over deze sim, een andere simulator of zelfs een familielid.^
+25 ^Bedankt! ^ (avatar name, nhood name)
+26 ^Uw stem voor %s om burgemeester te worden van %s is geteld. Vergeet niet dat deze stemming definitief is - u kunt ook niet opnieuw stemmen voor deze sim, een andere sim of zelfs een familielid.^
 
 27 ^Gefeliciteerd! ^ (nhood name, telling van de stemmen - altijd meervoudig)
-28 ^U bent de burgemeester van %s geworden!!! Met een maar liefst % van de stemmen, kwam je boven op alle andere kandidaten uit. Om uw nieuwe bevoegdheden in de buurt te bekijken, gaat u naar het tabblad Burgemeester op de pagina - u zult een aantal unieke controles zien in plaats van het gebruikelijke stemkastje, meestal te maken hebben met het Gemeentehuis. U vindt ook dat u kunt maken geprioriteerde berichten op het Bulletin Board, en zal verschijnen als burgemeester op eigenschappen in uw buurt. Ga en pronken of zoiets.
+28 ^U bent de burgemeester van %s geworden!!! Met een maar liefst %s van de stemmen, kwam je boven alle andere kandidaten uit. Om uw nieuwe bevoegdheden in de buurt te bekijken, gaat u naar het tabblad Burgemeester op de pagina - u zult een aantal unieke controles zien in plaats van het gebruikelijke stemkastje, die te maken hebben met het Gemeentehuis. U zal ook zien dat u geprioriseerde berichten kan plaatsen op het Prikbord en dat uw naam als burgemeester zal verschijnen op de Eigenschappen van uw buurt. Ga er maar mee pronken of zoiets.
 
 Tot volgende maand, veel plezier!^
 
 29 ^Verkiezing Geannuleerd^ (nhood name)
-30 ^Het spijt ons u te moeten meedelen dat uw buurt, %s, te ver is gedaald in de ranglijst om in aanmerking te komen voor verkiezingen. Dit betekent echter dat er in andere wijken heel nieuwe mogelijkheden zijn ontstaan.... alleen, uh, niet voor jou. De huidige burgemeester zal aan het eind van deze maand worden verwijderd, maar het gemeentehuis moet nog steeds open blijven (maar -uneditable-). Misschien wilt u een afscheidsfeestje voor uw burgemeester, en zorg ervoor dat het pand nog steeds bruikbaar is met alleen de geschonken objecten over!^
+30 ^Het spijt ons u te moeten meedelen dat uw buurt, %s, te ver is gedaald in de ranglijst om in aanmerking te komen voor verkiezingen. Dit betekent echter dat er in andere wijken heel nieuwe mogelijkheden zijn ontstaan.... alleen, uh, niet voor jou. De huidige burgemeester zal aan het eind van deze maand worden verwijderd, maar het gemeentehuis moet nog steeds open blijven (maar -is niet bewerkbaar-). Misschien wilt u een afscheidsfeestje voor uw burgemeester. En zorg ervoor dat het pand nog steeds bruikbaar is met alleen de geschonken objecten!^
 
 31 ^Uw, uh, nieuwe burgemeester...^ (nhood name)
-32 ^Blijkbaar is dus elke belangrijke persoon in %s van de tijd van de ene dag op de andere verdwenen, waardoor er absoluut niemand meer overbleef om burgemeester te worden. Slechts één persoon kwam naar het stembureau, een lama. Ja, we weten dat dat als persoon niet telt - maar we waren wanhopig, dus laat het toch maar lopen. Het is nu de burgemeester, en zijn enige verordening is om elk uur gevoed te worden. Vreemd genoeg is dit duidelijk het beste leven voor iedereen. Bedankt.^
+32 ^Blijkbaar is dus elke belangrijke persoon in %s van de ene dag op de andere verdwenen, waardoor er absoluut niemand meer overbleef om burgemeester te worden. Slechts één persoon kwam naar het stembureau, een lama. Ja, we weten dat dat als persoon niet telt - maar we waren wanhopig, dus we lieten het maar doen. Het is nu de burgemeester, en zijn enige verordening is om elk uur gevoed te worden. Vreemd genoeg is dit duidelijk het beste leven voor iedereen. Bedankt.^
 
 //player nominated but not accepted [sent once candidates are chosen] (nhood name, end date)
 33 ^Nominatie niet geaccepteerd! ^
-34 ^Je bent meerdere keren genomineerd, maar je hebt niet geaccepteerd om je kandidaat te stellen voor de burgemeester van %s in de tijd. Je kunt nog steeds op alle kandidaten stemmen en meehelpen om te beslissen wie burgemeester wordt in % van de gevallen. ^
+34 ^Je bent meerdere keren genomineerd, maar je hebt niet geaccepteerd om je kandidaat te stellen voor de burgemeester van %s. Je kunt nog steeds op alle kandidaten stemmen en meehelpen om te beslissen wie burgemeester wordt in %s. ^
 
 //free-vote info
-35 ^Gratis Stemmen Inschrijving^ (nhood name)
-36 ^Helaas was uw buurt %s niet populair genoeg om zelf verkiezingen te houden.... Dit betekent echter dat uw buurt volledig neutraal is, wat betekent dat u recht heeft op een Vrije Stem!
+35 ^Vrije Stemmingsregistratie^ (nhood name)
+36 ^Helaas was uw buurt %s niet populair genoeg om zelf verkiezingen te houden.... Dit betekent echter dat uw buurt volledig neutraal is, wat betekent dat u recht heeft op een Vrije Stem! 
 
-Een Vrije Stemming stelt u in staat om te stemmen op de burgemeester in één verkiezing, vanuit elke in aanmerking komende buurt. Dit kan een verkiezing zijn in een wijk die u vaak bezoekt, of voor een specifieke persoon die u een gemeentehuis wilt controleren voor evenementen en bijeenkomsten! Uw stem zal niet zo veel tellen als iemand die in die buurt woont, maar het kan nog steeds genoeg zijn om de weegschaal in het voordeel van een kandidaat te laten fooien, of ze op de stembus te krijgen. Is democratie niet spannend?
+Een Vrije Stemming stelt u in staat om te stemmen op de burgemeester in één verkiezing, in elke in aanmerking komende buurt. Dit kan een verkiezing zijn in een wijk die u vaak bezoekt, of voor een specifieke persoon die u een gemeentehuis wilt zien controleren voor evenementen en bijeenkomsten! Uw stem zal niet zo veel tellen als iemand die in die buurt woont, maar het kan nog steeds genoeg zijn om de weegschaal in het voordeel van een kandidaat te laten kantelen, of om ze op het stembiljet te krijgen. Is democratie niet spannend? 
 
-Klik op de knop hieronder om een buurt te kiezen waar je gratis kunt stemmen. Zodra je je hebt ingeschreven voor de verkiezing van een wijk, ontvang je de nominatie en de verkiezingen voor die wijk. Merk op dat je je verkiezingsbuurt niet kunt veranderen tot de volgende stemcyclus!^
+Klik op de knop hieronder om een buurt te kiezen waar je vrije kunt stemmen. Zodra je je hebt ingeschreven voor de verkiezing van een wijk, ontvang je de nominatie en de verkiezingen voor die wijk. Merk op dat je je verkiezingsbuurt niet kunt veranderen tot de volgende stemcyclus!^
 
-37 ^Gratis Stembevestiging^ (nhood name)
-38 ^Bedankt voor uw inschrijving voor de gratis stemming! De democratie zou u een stevige handdruk bieden, als die er in enige fysieke vorm zou zijn.
+37 ^Vrije Stem bevestiging^ (nhood name)
+38 ^Bedankt voor uw inschrijving voor de vrije stemming! De democratie zou u een stevige handdruk bieden, als die er in enige fysieke vorm zou zijn.
 
-Nominaties en Stemmen die u in deze verkiezing cyclus zal worden uitgebracht voor de wijken %s. Kies uw kandidaten verstandig!^
-
-
+Nominaties en Stemmen die u in deze verkiezing cyclus zal uitbrengen, tellen voor de wijken %s. Kies uw kandidaten verstandig!^
 
 /*//mail
 

@@ -2,11 +2,11 @@
 
 1 ^Geschonken door: %s^
 2 ^WAARSCHUWING!!!^
-3 ^Je hebt je inventaris ingevoerd op een gemeenschappelijke kavel. Als u een object uit uw inventaris schenkt, bent u NIET BESCHIKKELD om het terug te nemen of te verkopen! Zorg ervoor dat je echt weet wat je doet. Als je de burgemeester bent, moet je belangrijke objecten neerzetten met de "Normale" modus, zodat je ze kunt terugvorderen wanneer je maar wilt.^
+3 ^Je hebt je inventaris ingevoerd op een gemeenschappelijke perceel. Als u een object uit uw inventaris schenkt, kan u het NIET terug nemen of verkopen! Zorg ervoor dat je echt weet wat je doet. Als je de burgemeester bent, moet je belangrijke objecten neerzetten met de "Normale" modus, zodat je ze kunt terugvorderen wanneer je maar wilt.^
 4 ^DONEREN: OBJECTEN 66% KORTING, MAAR KUNNEN NIET TERUG NAAR DE INVENTARIS OF VERKOCHT WORDEN ALS ZE EENMAAL GEPLAATST ZIJN!^
 5 ^Donateurs: (toevoegen met bovenstaande zoekopdracht)^
 6 ^Donateurs beheren^
-7 ^Weet u zeker dat u als donateur %s wilt toevoegen? Zij zullen in staat zijn om objecten op deze kavel te plaatsen (niet te verwijderen) en kunnen gebruik maken van kamergenoot interacties op alle objecten. Als je ze bouwrechten geeft, zullen ze in staat zijn om objecten uit de bouwmodus te verwijderen.^
+7 ^Weet u zeker dat u als donateur %s wilt toevoegen? Zij zullen in staat zijn om objecten op deze perceel te plaatsen (niet te verwijderen) en kunnen gebruik maken van kamergenoot interacties op alle objecten. Als je ze bouwrechten geeft, zullen ze in staat zijn om objecten uit de bouwmodus te verwijderen.^
 8 ^ (Burgemeester)^
 
 10 ^Begunstigde - ^
@@ -15,7 +15,7 @@
 12 ^Huisgenoten beheren^
 13 ^Kamergenoten: (toevoegen met bovenstaande zoekopdracht)^
 
-14 ^Je hebt deze sim met succes uitgenodigd om je huisgenoot te zijn. Je moet echter op hun reactie wachten voordat je ze op je kamergenotenlijst ziet staan!^
+14 ^Je hebt deze sim met succes uitgenodigd om je huisgenoot te worden. Je moet echter op hun reactie wachten voordat je ze op je kamergenotenlijst ziet staan!^
 15 ^Deze sim is al een kamergenoot in een ander pand. U kunt alleen sims uitnodigen die niet op een eigendom wonen!^
 16 ^Een uitnodiging van een kamergenoot is al verstuurd naar deze sim, en is in afwachting van een antwoord. U moet wachten tot ze reageren voordat u verdere acties onderneemt.^
 

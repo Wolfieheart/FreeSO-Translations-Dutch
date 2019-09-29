@@ -6,8 +6,8 @@
 4 ^Burgemeester^
 
 5 ^Sluiten^
-6 ^Centrum voor de buurt^
-7 ^Bulletin Board^
+6 ^Centreer op de buurt^
+7 ^Prikbord^
 
 8 ^Buurt Beschrijving^
 9 ^Scroll omhoog^
@@ -16,7 +16,7 @@
 11 ^Eigenschappen beschikbaar voor aankoop!^
 12 ^Eigenschappen gereserveerd voor M.O.M.I.^
 
-13 ^#%s in Activiteit^
+13 ^%s in Activiteit^
 14 ^Geen gemeentehuis eigendom.^
 
 15 ^Bewoners: %s^
@@ -30,13 +30,13 @@
 21 ^Top Sims (Berucht)^
 
 22 ^Burgemeester %s^
-23 ^%se^
-24 ^%se^
-25 ^%se^
-26 ^%se^
+23 ^%sste^
+24 ^%sde^
+25 ^%sde^
+26 ^%sde^
 27 ^%s Sterren^
 
-28 ^Buurt nog niet in aanmerking komend voor verkiezingen!^
+28 ^Buurt nog niet in aanmerking voor verkiezingen!^
 29 ^In afwachting van de verkiezingsuitslag...^
 30 ^Verkozen burgemeester %s^
 
@@ -48,7 +48,7 @@
 35 ^%s uren over!^
 36 ^%s dagen over!^
 
-37 ^Wat de bewoners zeggen....^
+37 ^Wat bewoners vertellen....^
 38 ^Burgemeester Acties:^
 39 ^Administratieve controles:^
 
@@ -63,21 +63,21 @@
 //move/create town hall plugin
 
 46 ^Het creëren van %s gemeentehuis....^
-47 ^Verhuisd %s Gemeentehuis....^
+47 ^Verhuizing %s Gemeentehuis....^
 48 ^Annuleren^
 
-49 ^Weet je zeker dat je hier het stadhuis wilt plaatsen? De grondkosten worden betaald door M.O.M.I., maar u zult een forfaitaire verwerkingskost van $2000 moeten betalen.^
+49 ^Weet je zeker dat u hier het stadhuis wilt plaatsen? De grondkosten worden betaald door M.O.M.I., maar u zult een forfaitaire verwerkingskost van $2000 moeten betalen.^
 50 ^Je kunt een gemeentehuis niet in een buurt plaatsen waar het niet voor bedoeld is. Uw gemeentehuis moet worden geplaatst in %s.^
-51 ^Hoe verleidelijk het ook is, je kunt mensen niet uit hun huizen dwingen om het gemeentehuis hier te plaatsen. We doen alsof je dat niet geprobeerd hebt en laten je een andere locatie kiezen.^
+51 ^Hoe verleidelijk het ook is, je kunt mensen niet dwingen hun huizen te verlaten om het gemeentehuis hier te plaatsen. We doen alsof je dat niet geprobeerd hebt en laten je een andere locatie kiezen. :)^
 
-52 ^Je hebt het gemeentehuis voor %s geplaatst. Als burgemeester kunt u vrijelijk de naam en beschrijving van het gemeentehuis veranderen van de Eigendomspagina. Aangezien het een gemeenschappelijk perceel is, kan iedereen die volgens uw toegangsinstellingen is toegestaan, het pand ook openen.^
+52 ^Je hebt het gemeentehuis voor %s geplaatst. Als burgemeester mag u de naam en beschrijving van het gemeentehuis veranderen op de Eigendomspagina. Aangezien het een gemeenschappelijk perceel is, kan iedereen die volgens uw toegangsinstellingen is toegestaan, het pand ook openen.^
 
 //rating dialog
 53 ^Inzenden Beoordeling^
-54 ^Voer je gedachten over de huidige burgemeester van je buurt in, en geef ze dan een sterwaardering. Dit zou een eerlijk oordeel moeten zijn over hun prestaties als burgemeester van deze buurt. Overdreven beledigende inhoud zal resulteren in een schorsing van de buurt gameplay, spelen leuk!^
+54 ^Voer je gedachten over de huidige burgemeester van je buurt in, en geef ze dan een sterwaardering. Dit zou een eerlijk oordeel moeten zijn over hun prestaties als burgemeester van deze buurt. Overdreven beledigende inhoud zal resulteren in een schorsing van de buurt gameplay, hou het leuk!^
 55 ^Je hebt deze burgemeester al beoordeeld. Een nieuwe beoordeling vervangt uw oude opmerking en beoordeling - weet u zeker dat u door wilt gaan?^
 
-56 ^Kies wie u burgemeester wilt worden.^
+56 ^Kies wie u burgemeester wilt zien worden.^
 57 ^Ikzelf^
 58 ^Iemand anders^
 59 ^Niemand^
@@ -87,7 +87,7 @@
 
 62 ^Beoordelingen^
 63 ^Verwijderen^
-64 ^Moet deze gebruiker worden geschorst uit van buurt Gameplay voor deze opmerking?^
+64 ^Moet deze gebruiker worden geschorst uit de buurt Gameplay voor deze opmerking?^
 
 // neighborhood suspension window
 65 ^Opschorten %s van buurt gameplay van Buurt^
@@ -95,7 +95,7 @@
 67 ^Voer een reden voor schorsing in.^
 
 68 ^Geschorst voor beledigend commentaar: %s^
-69 ^Geschorst voor de bulletinboard post: %s^
+69 ^Geschorst voor de prikbord post: %s^
 
 70 ^Je kunt deze actie niet uitvoeren omdat je geschorst bent voor de gameplay in de buurt. \n\nDuur: %s. \nReden: %s^
 71 ^Klaar!^
@@ -127,21 +127,19 @@
 
 //more town hall strings
 90 ^Je hebt minstens $2000 nodig om een woning van het gemeentehuis te plaatsen of te verplaatsen, om de verwerkingskosten te dekken.^
-91 ^Je plaatst nu het gemeentehuis voor %s. Dit vervangt alle controles voor het verplaatsen van je eigen eigendom in het stadsbeeld - je blijft in deze modus zolang je de indicator in de titelbalk ziet. Veel kopen in deze modus kost $2000, ongeacht de locatie! Als je van gedachten verandert, klik dan op Annuleren om terug te trekken.
+91 ^Je plaatst nu het gemeentehuis voor %s. Dit vervangt alle controles voor het verplaatsen van je eigen eigendom in het stadsbeeld - je blijft in deze modus zolang je de indicator in de titelbalk ziet. Een perceel kopen in deze modus kost $2000, ongeacht de locatie! Als je van gedachten verandert, klik dan op Annuleren om terug te keren.
 
-Je kunt een gemeentehuis alleen plaatsen in de buurt waar je burgemeester bent, en je kunt het niet plaatsen op een land dat (uiteraard) al bezet is. De locatie van het stadhuis kan later worden gewijzigd voor dezelfde prijs van $2000, als er een betere locatie wordt geopend of als u een verandering van omgeving wilt.^
+Je kunt een gemeentehuis alleen plaatsen in de buurt waar je burgemeester bent, en je kunt het niet plaatsen op een land dat al bezet is (uiteraard). De locatie van het gemeentehuis kan later worden gewijzigd voor dezelfde prijs van $2000, als er een betere locatie wordt geopend of als u een verandering van omgeving wilt.^
 
 92 ^Plaatsen met een gemeenschappelijke categorie^
-93 ^Je kunt de categorie van een gemeenschappelijk kavel niet veranderen.^
+93 ^Je kunt de categorie van een gemeenschappelijk perceel niet veranderen.^
 
 94 ^Klik om deze beoordeling te bekijken^
 95 ^Klik om alle beoordeling te bekijken^
 96 ^%s Beoordelingen^
-97 ^Uw beoordeling is geregistreerd. Bedankt voor uw input! (als u al een beoordeling voor deze burgemeester had, is uw nieuwe beoordeling vervangen door uw nieuwe beoordeling).^
+97 ^Uw beoordeling is geregistreerd. Bedankt voor uw input! (als u al een beoordeling voor deze burgemeester had, is uw oude beoordeling vervangen door uw nieuwe beoordeling).^
 
 98 ^Gemeenschap^
-
-
 
 /*//Neighborhood Page
 
