@@ -8,9 +8,9 @@
 7 ^Object Schaduwen^
 
 //NL: Omringende Lot Opties
-8 ^Geen omliggende lots. Grijze leegte wordt buiten de lot getrokken.^
-9 ^Lege omliggende lots. (alleen grond en bomen) ^
-10 ^Volledige omliggende lots. (architectuur, buiten objecten) ^
+8 ^Geen omliggende kavels. Grijze leegte wordt buiten de kavel getrokken.^
+9 ^Lege omliggende kavels. (alleen grond en bomen) ^
+10 ^Volledige omliggende kavels. (architectuur, buiten objecten) ^
 
 11 ^3D schaduwen^
 12 ^Stad Skybox^
