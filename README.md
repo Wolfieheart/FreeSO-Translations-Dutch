@@ -17,6 +17,7 @@ This is what I am currently working on. There are 25 files to be translated, of 
 ## Contributing
 You can contribute by helping me correct any/all Dutch that sounds out of place. 
 
-**Reminder: I am from Ireland and Dutch is my 2nd Language, so there may be a few words out of place. The Majority of the translations have been checked against the Dutch Dialect for Vlaanderen/Flanders, with a native speaker**
+**Reminder: I am from Ireland and Dutch is my 2nd Language, so there may be a few words out of place.   
+Please Note: The Majority of the translations have been checked against the Dutch for Flanders/Belgium, with a native speaker**
 
 If you find anything that is incorrect, please create an issue or a Pull Request. 
