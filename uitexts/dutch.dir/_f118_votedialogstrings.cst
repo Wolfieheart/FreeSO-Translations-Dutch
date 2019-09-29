@@ -1,4 +1,71 @@
-﻿1 ^Thank you!^ //generic title for confirmation
+﻿1 ^Bedankt!^ //generic title for confirmation
+
+//pre voting dialog
+2 ^Voor de stemming....^
+3 ^De nominaties zijn binnen; deze stemming toont de best genomineerde kandidaten voor uw buurt. Het is aan u om te beslissen wie uw burgemeester moet zijn, op basis van hun plannen, beoordelingen uit het verleden en uw persoonlijke ervaring met hen!
+
+Campagneboodschappen zijn geschreven door de kandidaten om u te overtuigen waarom zij de beste keuze zijn als burgemeester, en misschien wel ongematigd zijn. Alle steekpenningen (bv. uitbetalingen/vergeving als ze winnen) zijn tegen de regels en zullen waarschijnlijk de kandidaat gediskwalificeerd krijgen, dus je stem kan verloren gaan als je op overtreders stemt.
+
+Kies zorgvuldig, want uw stem kan niet worden veranderd als deze eenmaal is uitgebracht. OPMERKING: U kunt slechts eenmaal stemmen in elke verkiezing - over uw 3 sims EN gerelateerde (zelfde huishouden) accounts. Deze sims zullen nog steeds in staat zijn om te stemmen in verkiezingen in *andere* wijken, hoewel.^
+
+//voting dialog
+
+4 ^Stem op uw burgemeester!^
+5 ^Selecteer a.u.b op welke kandidaat u wilt stemmen.^
+
+6 ^Nieuwkomer^ //no previous neighborhood mentioned
+7 ^Ik neem deel aan de verkiezingen voor een %s ambtstermijn^ //non-zero term number
+8 ^Ex-burgemeester van %s^ //zero term number but previous neighborhood mentioned
+
+//confirm dialog
+9 ^Weet je het zeker?^
+10 ^U heeft ervoor gekozen om voor %s te stemmen. 
+
+Heeft u er vertrouwen in dat dit de kandidaat is voor wie u wilt stemmen? Let goed op hun eerdere beoordeling en campagneboodschap.
+
+Zodra u in een verkiezing stemt, kunt u deze niet meer wijzigen of op een andere sim stemmen. Bovendien zullen de andere sims op uw account en eventuele sims op *gerelateerde* accounts (hetzelfde echte huishouden) niet in staat zijn om te stemmen in deze verkiezing.^
+
+11 ^Bedankt voor te stemmen. U zou binnenkort een bevestigingsmail moeten ontvangen.^
+
+//nomination dialog
+12 ^Nomineren voor burgemeester^
+13 ^SKies uit de lijst van bewoners in %s een sim om te nomineren voor burgemeester. Bewoners met een sterretje zijn al eerder gekozen - klik erop om individuele beoordelingen te bekijken.
+
+Kies zorgvuldig, want je nominatie kan niet worden gewijzigd als je eenmaal bent gekozen. OPMERKING: U kunt bij elke verkiezing slechts één keer nomineren - over uw 3 sims EN gerelateerde (zelfde huishouden) accounts. Deze sims zullen echter nog steeds in staat zijn om te nomineren bij verkiezingen in *andere* wijken.^
+
+14 ^Weet je het zeker?^
+15 ^U heeft ervoor gekozen om voor %s te stemmen. Heeft u er vertrouwen in dat dit de kandidaat is voor wie u wilt stemmen?
+
+Zodra u in een verkiezing stemt, kunt u deze niet meer wijzigen of op een andere sim stemmen. Bovendien zullen de andere sims op uw account en eventuele sims op *gerelateerde* accounts (hetzelfde echte huishouden) niet in staat zijn om te stemmen in deze verkiezing.^
+
+16 ^Bedankt voor je nominatie. U zou binnenkort een bevestigingsmail moeten ontvangen.^
+
+//run for mayor dialog
+17 ^Toetreden als burgemeesterskandidaat^
+18 ^Voer een campagneboodschap in. Als u zich tegen het einde van de nominaties in de top 5 van genomineerde sims bevindt, bent u kandidaat op de laatste stemronde, en uw campagneboodschap zal onder uw naam worden getoond.
+
+Voordat u zich kandidaat stelt, dient u de regels te lezen op http://freeso.org/nhoodrules . In het bijzonder, uw boodschap en alle ingame campagnes mogen niet persoonlijk andere spelers aanvallen of proberen om kiezers om te kopen (bv. uitbetalingen/vergoedingen als u wint), of u kunt gediskwalificeerd worden. Als je van gedachten bent veranderd over het rennen, druk dan gewoon op Annuleren.^
+
+19 ^Bedankt voor uw deelname aan de campagne, en veel succes! U zou binnenkort een bevestigingsmail moeten ontvangen.^
+
+//button strings
+20 ^Nomineren^
+21 ^  STEMMEN^
+22 ^42^ //X offset for voting icon. feel free to localise. (MUST be a number)
+
+//ratings dialog
+23 ^Beoordelingen voor %s^
+24 ^Vermeld staan de beoordelingen voor avatar %s, van beste naar slechtste. De waarderingen werden gegeven toen deze gebruiker burgemeester van een buurt was, nu of op eender welk moment in het verleden.^
+
+//free vote nhood dialog
+25 ^Kies voor de buurt voor vrije stemming^
+26 ^U neemt deel aan de verkiezing van de gekozen wijk voor de rest van de stemcyclus. Merk op dat sims van hetzelfde echte huishouden niet kunnen stemmen en nomineren in dezelfde verkiezing, en u kunt uw vrije stemming in de buurt niet veranderen tot het einde van de verkiezing.^
+27 ^Bevestig vrije stemming in de buurt^
+28 ^Weet u zeker dat u bij de verkiezing voor %s wilt stemmen? Het is misschien een goed idee om na te denken op welke inwoners u zou kunnen stemmen voordat u uw stem uitbrengt.^
+29 ^Selecteer^
+30 ^Je hebt je succesvol ingeschreven voor de vrije stemming! U zou binnenkort een bevestigingsmail moeten ontvangen.^
+
+/*1 ^Thank you!^ //generic title for confirmation
 
 //pre voting dialog
 2 ^Before Voting...^
@@ -61,4 +128,4 @@ Before running, please review the rules on http://freeso.org/nhoodrules . Specif
 27 ^Confirm Free Vote Neighborhood^
 28 ^Are you sure you want to vote in the election for %s? It might be a good idea to think of which residents you might vote for before confirming.^
 29 ^Select^
-30 ^You have successfully enrolled for the free vote! You should recieve a confirmation email shortly.^
+30 ^You have successfully enrolled for the free vote! You should recieve a confirmation email shortly.^*/
