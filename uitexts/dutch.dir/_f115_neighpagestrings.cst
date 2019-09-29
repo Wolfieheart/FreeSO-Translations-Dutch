@@ -1,0 +1,287 @@
+﻿//Neighborhood Page
+
+1 ^Informatie^
+2 ^Top 10 Eigenschappen^
+3 ^Top 10 Sims^
+4 ^Burgemeester^
+
+5 ^Sluiten^
+6 ^Centrum voor de buurt^
+7 ^Bulletin Board^
+
+8 ^Buurt Beschrijving^
+9 ^Scroll omhoog^
+10 ^Scroll omlaag^
+
+11 ^Eigenschappen beschikbaar voor aankoop!^
+12 ^Eigenschappen gereserveerd voor M.O.M.I.^
+
+13 ^#%s in Activiteit^
+14 ^Geen gemeentehuis eigendom.^
+
+15 ^Bewoners: %s^
+16 ^Eigenschappen: %s^
+
+17 ^Top Eigenschappen(Algemeen)^
+18 ^Top Eigenschappen(Categorie)^
+
+19 ^Top Sims (Activiteit)^
+20 ^Top Sims (Beroemd)^
+21 ^Top Sims (Berucht)^
+
+22 ^Burgemeester %s^
+23 ^%se^
+24 ^%se^
+25 ^%se^
+26 ^%se^
+27 ^%s Sterren^
+
+28 ^Buurt nog niet in aanmerking komend voor verkiezingen!^
+29 ^In afwachting van de verkiezingsuitslag...^
+30 ^Verkozen burgemeester %s^
+
+31 ^Verkiezing: %s^
+32 ^Nominaties: %s^
+33 ^Beoordeel^
+
+34 ^%s minuten over!^
+35 ^%s uren over!^
+36 ^%s dagen over!^
+
+37 ^Wat de bewoners zeggen....^
+38 ^Burgemeester Acties:^
+39 ^Administratieve controles:^
+
+40 ^Maak een nieuw gemeentehuis aan^
+41 ^Verplaats het gemeentehuis^
+42 ^Verwijderen (alleen admin)^
+
+43 ^Set burgemeester^
+44 ^Gereserveerde vlag schakelen^
+45 ^Beheer waarderingen^
+
+//move/create town hall plugin
+
+46 ^Het creëren van %s gemeentehuis....^
+47 ^Verhuisd %s Gemeentehuis....^
+48 ^Annuleren^
+
+49 ^Weet je zeker dat je hier het stadhuis wilt plaatsen? De grondkosten worden betaald door M.O.M.I., maar u zult een forfaitaire verwerkingskost van $2000 moeten betalen.^
+50 ^Je kunt een gemeentehuis niet in een buurt plaatsen waar het niet voor bedoeld is. Uw gemeentehuis moet worden geplaatst in %s.^
+51 ^Hoe verleidelijk het ook is, je kunt mensen niet uit hun huizen dwingen om het gemeentehuis hier te plaatsen. We doen alsof je dat niet geprobeerd hebt en laten je een andere locatie kiezen.^
+
+52 ^Je hebt het gemeentehuis voor %s geplaatst. Als burgemeester kunt u vrijelijk de naam en beschrijving van het gemeentehuis veranderen van de Eigendomspagina. Aangezien het een gemeenschappelijk perceel is, kan iedereen die volgens uw toegangsinstellingen is toegestaan, het pand ook openen.^
+
+//rating dialog
+53 ^Inzenden Beoordeling^
+54 ^Voer je gedachten over de huidige burgemeester van je buurt in, en geef ze dan een sterwaardering. Dit zou een eerlijk oordeel moeten zijn over hun prestaties als burgemeester van deze buurt. Overdreven beledigende inhoud zal resulteren in een schorsing van de buurt gameplay, spelen leuk!^
+55 ^Je hebt deze burgemeester al beoordeeld. Een nieuwe beoordeling vervangt uw oude opmerking en beoordeling - weet u zeker dat u door wilt gaan?^
+
+56 ^Kies wie u burgemeester wilt worden.^
+57 ^Ikzelf^
+58 ^Iemand anders^
+59 ^Niemand^
+
+60 ^Gereserveerde vlag geactiveerd.^
+61 ^Gereserveerde vlag niet geactiveerd.^
+
+62 ^Beoordelingen^
+63 ^Verwijderen^
+64 ^Moet deze gebruiker worden geschorst uit van buurt Gameplay voor deze opmerking?^
+
+// neighborhood suspension window
+65 ^Opschorten %s van buurt gameplay van Buurt^
+66 ^Hoeveel dagen wilt u deze gebruiker schorsen? (0 = perma)^
+67 ^Voer een reden voor schorsing in.^
+
+68 ^Geschorst voor beledigend commentaar: %s^
+69 ^Geschorst voor de bulletinboard post: %s^
+
+70 ^Je kunt deze actie niet uitvoeren omdat je geschorst bent voor de gameplay in de buurt. \n\nDuur: %s. \nReden: %s^
+71 ^Klaar!^
+
+72 ^Geen burgemeester^
+
+73 ^Geld^
+74 ^Gek^
+75 ^Romantiek^
+76 ^Diensten^
+77 ^Winkelen^
+78 ^Vaardigheden^
+79 ^Welkom^
+80 ^Spellen^
+81 ^Vermaak^
+82 ^Verblijf^
+
+83 ^%s termijn^
+
+// extra mayor and mod actions
+
+84 ^Bekijk Beoordelingen^
+85 ^Verordeningen^
+86 ^Mod^
+
+87 ^Testcyclus^
+88 ^Terug^
+89 ^Acties^
+
+//more town hall strings
+90 ^Je hebt minstens $2000 nodig om een woning van het gemeentehuis te plaatsen of te verplaatsen, om de verwerkingskosten te dekken.^
+91 ^Je plaatst nu het gemeentehuis voor %s. Dit vervangt alle controles voor het verplaatsen van je eigen eigendom in het stadsbeeld - je blijft in deze modus zolang je de indicator in de titelbalk ziet. Veel kopen in deze modus kost $2000, ongeacht de locatie! Als je van gedachten verandert, klik dan op Annuleren om terug te trekken.
+
+Je kunt een gemeentehuis alleen plaatsen in de buurt waar je burgemeester bent, en je kunt het niet plaatsen op een land dat (uiteraard) al bezet is. De locatie van het stadhuis kan later worden gewijzigd voor dezelfde prijs van $2000, als er een betere locatie wordt geopend of als u een verandering van omgeving wilt.^
+
+92 ^Plaatsen met een gemeenschappelijke categorie^
+93 ^Je kunt de categorie van een gemeenschappelijk kavel niet veranderen.^
+
+94 ^Klik om deze beoordeling te bekijken^
+95 ^Klik om alle beoordeling te bekijken^
+96 ^%s Beoordelingen^
+97 ^Uw beoordeling is geregistreerd. Bedankt voor uw input! (als u al een beoordeling voor deze burgemeester had, is uw nieuwe beoordeling vervangen door uw nieuwe beoordeling).^
+
+98 ^Gemeenschap^
+
+
+
+/*//Neighborhood Page
+
+1 ^Info^
+2 ^Top 10 Properties^
+3 ^Top 10 Sims^
+4 ^Mayor^
+
+5 ^Close^
+6 ^Center on Neighborhood^
+7 ^Bulletin Board^
+
+8 ^Neighborhood Description^
+9 ^Scroll Up^
+10 ^Scroll Down^
+
+11 ^Properties available for purchase!^
+12 ^Properties reserved for M.O.M.I.^
+
+13 ^#%s in Activity^
+14 ^No Town Hall property.^
+
+15 ^Residents: %s^
+16 ^Properties: %s^
+
+17 ^Top Properties (Overall)^
+18 ^Top Properties (Categories)^
+
+19 ^Top Sims (Activity)^
+20 ^Top Sims (Famous)^
+21 ^Top Sims (Infamous)^
+
+22 ^Mayor %s^
+23 ^%sst^
+24 ^%snd^
+25 ^%srd^
+26 ^%sth^
+27 ^%s Stars^
+
+28 ^Neighborhood not eligible for elections yet!^
+29 ^Awaiting election results...^
+30 ^Elected Mayor %s^
+
+31 ^Election: %s^
+32 ^Nominations: %s^
+33 ^Rate^
+
+34 ^%s mins left!^
+35 ^%s hours left!^
+36 ^%s days left!^
+
+37 ^What residents have to say...^
+38 ^Mayor Actions:^
+39 ^Admin Controls:^
+
+40 ^Create New Town Hall^
+41 ^Move Town Hall^
+42 ^Delete (admin only)^
+
+43 ^Set Mayor^
+44 ^Toggle Reserved Flag^
+45 ^Manage Ratings^
+
+//move/create town hall plugin
+
+46 ^Creating %s Town Hall...^
+47 ^Moving %s Town Hall...^
+48 ^Cancel^
+
+49 ^Are you sure you want to place the town hall here? The land costs are paid for by M.O.M.I, but you will have to pay a flat $2000 processing fee.^
+50 ^You cannot place a Town Hall in any neighborhood it is not meant for. Your Town Hall must be placed in %s.^
+51 ^As tempting as it may be, you cannot force people out of their homes in order to place the Town Hall here. We'll pretend you didn't try to do that, and let you choose another location.^
+
+52 ^You have placed the Town Hall for %s. As Mayor, you can freely change its name and description from its Property Page. Since it is a community lot, anyone allowed by your admission settings will also be able to open the property.^
+
+//rating dialog
+53 ^Submit Rating^
+54 ^Enter your thoughts about the current Mayor of your neighborhood, and then give them a star rating. This should be a fair judgement of their performance as mayor of this neighborhood. Overly offensive content will result in a suspension from neighborhood gameplay, play nice!^
+55 ^You have already rated this Mayor. Rating them again will replace your old comment and rating - are you sure you want to continue?^
+
+56 ^Choose who you would like to be Mayor.^
+57 ^Myself^
+58 ^Someone Else^
+59 ^Nobody^
+
+60 ^Reserved flag set.^
+61 ^Reserved flag unset.^
+
+62 ^Ratings^
+63 ^Delete^
+64 ^Should this user be suspended from Neighborhood Gameplay for this comment?^
+
+// neighborhood suspension window
+65 ^Suspending %s from Neighborhood Gameplay^
+66 ^How many days do you want to suspend this user for? (0 = perma)^
+67 ^Enter a suspension reason.^
+
+68 ^Suspended for offensive comment: %s^
+69 ^Suspended for bulletin board post: %s^
+
+70 ^You cannot perform this action because you have been suspended from neighborhood gameplay. \n\nDuration: %s. \nReason: %s^
+71 ^Done!^
+
+72 ^No Mayor^
+
+73 ^Money^
+74 ^Offbeat^
+75 ^Romance^
+76 ^Services^
+77 ^Shopping^
+78 ^Skills^
+79 ^Welcome^
+80 ^Games^
+81 ^Entertainment^
+82 ^Residence^
+
+83 ^%s Term^
+
+// extra mayor and mod actions
+
+84 ^View Ratings^
+85 ^Ordinances^
+86 ^Mod^
+
+87 ^Test Cycle^
+88 ^Back^
+89 ^Actions^
+
+//more town hall strings
+90 ^You need at least $2000 to place or move a Town Hall property, to cover processing fees.^
+91 ^You are now placing the Town Hall for %s. This will replace all controls for moving your own property in the city view - you'll remain in this mode as long as you see the indicator in the title bar. Purchasing a lot in this mode costs a flat $2000, regardless of location! If you change your mind, click Cancel to back out.
+
+You can only place a Town Hall within the neighborhood you are Mayor of, and you cannot place it on any land that is already occupied (obviously). The location of the Town Hall can be changed later for the same price of $2000, if a better location opens up or you want a change of scenery.^
+
+92 ^Places with Community Category^
+93 ^You cannot change a community lot's category.^
+
+94 ^Click to view this Rating^
+95 ^Click to view all Ratings^
+96 ^%s Ratings^
+97 ^Your rating has been recorded. Thank you for your input! (if you already had a rating for this mayor, your new rating replaced it)^
+
+98 ^Community^*/
