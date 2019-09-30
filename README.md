@@ -3,7 +3,6 @@ Welcome to the Dutch Translation Project for The Sims Online / FreeSO.
 
 This repo is maintained by W0lfstorm. You can see my progress for this project here and on [The FreeSO Forums](http://forum.freeso.org/threads/wip-dutch-translations-v0-1.6494/#post-31765)
 
------
 ## Project Outine
 
 As I outlined over on the FreeSO Forums, this project will be split into 2 parts:
@@ -18,7 +17,6 @@ As I outlined over on the FreeSO Forums, this project will be split into 2 parts
 3. Objects  
 > This is Phase 3 and will be completed... I am planning to do this once the new Object System (.piff -> .cst) are implemented
 
------
 ## Contributing
 You can contribute by helping me correct any/all Dutch that sounds out of place. 
 
@@ -26,8 +24,6 @@ You can contribute by helping me correct any/all Dutch that sounds out of place.
 Please Note: The Majority of the translations have been checked against the Dutch for Flanders/Belgium, with a native speaker**
 
 If you find anything that is incorrect, please create an issue or a Pull Request. 
-
------
 
 ## Licence
 > This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
