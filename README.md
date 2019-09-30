@@ -1,4 +1,4 @@
-# FreeSO Translation Project - Dutch (NL) and Dutch (BE)
+# FreeSO Translation Project - Dutch (NL/BE)
 Welcome to the Dutch Translation Project for The Sims Online / FreeSO.
 
 This repo is maintained by W0lfstorm. You can see my progress for this project here and on [The FreeSO Forums](http://forum.freeso.org/threads/wip-dutch-translations-v0-1.6494/#post-31765)
