@@ -5,10 +5,11 @@
 2 ^De verkiezingscyclus voor %s is begonnen, en we zijn op zoek naar nominaties waarvoor de inwoner burgemeester zou moeten worden. Om een nominatie in te dienen, klikt u op de onderstaande knop. Je hebt tot %s! ^
 
 //elections starting [event] (nhood name, candidates, end date, award sum)
-3 ^Voting has begun!^
-4 ^The candidates have been selected, and final voting for the Mayor of %s has started. The final candidates are as follows:
+3 ^De stemming is begonnen!^
+4 ^De kandiaten zijn geselecteerd, en de finale stemming voor burgemeester van %s is gestart. De uitendelijke kandiaten zijn de volgende:
 %s
-If you live in this neighborhood, check your email for the final ballot. You have until %s to cast your vote!^
+
+Als je in deze buurt woont, controleer je email voor het laaste stembiljet. Je hebt tot %s om te stemmen!^
 
 //elections over [sent to voters] (winner, nhood name, other placements)
 5 ^Uw nieuwe burgemeester!^
@@ -24,7 +25,7 @@ De tweede plaats (in volgorde) was:
 10 ^Blijkbaar is dus elke belangrijke persoon in %s van de ene dag op de andere verdwenen, waardoor er absoluut niemand meer overbleef om burgemeester te worden. Slechts één persoon kwam naar het stembureau, een lama. Ja, we weten dat dat als persoon niet telt - maar we waren wanhopig, dus we lieten het maar doen. Het is nu de burgemeester, en zijn enige verordening is om elk uur gevoed te worden. Vreemd genoeg is dit duidelijk het beste leven voor iedereen. Bedankt.^
 
 11 ^Gefeliciteerd!^ (nhood name, top limit)
-12 ^De gemeente heeft de recente stijging van de activiteit van %s erkend, en het heeft met succes de top %s buurten lijst gehaald! Dit betekent dat we nu al ons ingezamelde belastinggeld gaan uitspuiten om burgemeestersverkiezingen voor deze wijk te houden, omdat we niet echt zoveel mensen zelf aankunnen. Deze zullen binnenkort beginnen, check je inbox voor de stemming!
+12 ^De stadsraad heeft de recente stijging van de activiteit van %s erkend, en het heeft met succes de top %s buurten lijst gehaald! Dit betekent dat we nu al ons ingezamelde belastinggeld gaan besteden aan burgemeestersverkiezingen voor deze wijk, omdat we niet echt zoveel mensen zelf aankunnen. Deze zullen binnenkort beginnen, check je inbox voor de verkiezing!
 
 OPMERKING: Ons budget is beperkt, en kan worden omgeleid naar andere wijken als het activiteitenniveau sterk daalt. Onze 'zakelijke reizen' hebben altijd voorrang.^
 

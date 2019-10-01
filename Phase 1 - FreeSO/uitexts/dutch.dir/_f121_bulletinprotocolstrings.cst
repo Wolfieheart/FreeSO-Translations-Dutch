@@ -1,23 +1,23 @@
 ﻿1 ^Fout^
-2 ^Er is een onbekende fout opgetreden. Dit is ingelogd op de server, dus u moet het probleem waarschijnlijk melden, zodat we het kunnen onderzoeken.^
+2 ^Er is een onbekende fout opgetreden. Dit is gelogd op de server, dus u moet het probleem waarschijnlijk melden, zodat we het kunnen onderzoeken.^
 
 3 ^Uw bericht is geplaatst! Merk op dat u niet opnieuw kunt posten voor %s dag(en).^
 
 4 ^U woont niet in deze buurt, dus u kunt niet op het prikbord posten. Misschien is een verhuizing op zijn plaats?^
 5 ^Het is niet toegestaan om een bericht op dit prikbord te plaatsen.^
-6 ^De perceel die u heeft opgegeven konden niet worden gevonden. Misschien is het verwijderd of verplaatst tussen uw keuze en nu.^
+6 ^Het percel die u heeft opgegeven kom niet worden gevonden. Misschien is het verwijderd of verplaatst tussen uw keuze en nu.^
 7 ^Het bericht dat u hebt verzonden is ongeldig. Zorg ervoor dat het bericht niet leeg is en minder is dan de opgegeven tekenlimiet.^
 8 ^De titel die u heeft verzonden is ongeldig. Zorg ervoor dat het bericht niet leeg is en minder is dan de opgegeven tekenlimiet.^
 9 ^SEND_FAIL_GAMEPLAY_BAN^
 10 ^Je plaatst te snel berichten! De limiet voor normale bewoners is %s dag(en), en %s dag(en) voor de burgemeester.^
-11 ^We waarderen het enthousiasme, maar alleen sims die al minstens een week in een buurt zijn, kunnen op het prikbord posten.^
+11 ^We waarderen het enthousiasme, maar alleen sims die al minstens een week in een buurt wonen, kunnen op het prikbord posten.^
 12 ^Ik kon het gegeven bericht niet vinden. Misschien is het verwijderd?^
 13 ^U kunt deze actie niet uitvoeren omdat u niet de burgemeester van deze buurt bent. Misschien is het burgemeesterschap onlangs aan iemand anders doorgegeven?^
-14 ^Je kunt dit bericht niet verwijderen - het is niet van jullie. Leuk om te proberen.^
-15 ^Rustig aan! Dit bericht is al gepromoveerd naar de burgemeester sectie, je hoeft het niet opnieuw te doen.^
+14 ^Je kunt dit bericht niet verwijderen - het is niet van jou. Leuk om te proberen.^
+15 ^Rustig aan! Dit bericht is al gepromooterd naar de burgemeester sectie, je hoeft het niet opnieuw te doen.^
 16 ^U mag deze actie niet uitvoeren.^
 
-16 ^U mag deze actie niet uitvoeren.
+16 ^U mag deze actie niet uitvoeren.^
 
 
 /*1 ^Error^

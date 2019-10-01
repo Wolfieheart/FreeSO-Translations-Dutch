@@ -4,12 +4,12 @@
 4 ^De kandidaat die u heeft gekozen woont niet in deze buurt. Selecteer a.u.b. iemand anders.^
 5 ^De kandidaat die u hebt gekozen om op te stemmen is niet genomineerd. Selecteer a.u.b. iemand anders.^
 6 ^U heeft al gestemd in dit deel van de verkiezing! Stemmen is definitief, dus je moet wachten tot het allemaal voorbij is. ^
-7 ^Een andere gebruiker of sim op een account met betrekking tot uw account heeft al gestemd voor een sim in deze verkiezing. Om vulling van stembiljetten te voorkomen, kunnen accounts of sims die gerelateerd zijn aan elkaar niet stemmen in dezelfde verkiezing.^
+7 ^Een andere gebruiker of sim op een account met betrekking tot uw account heeft al gestemd voor een sim in deze verkiezing. Om stemmingsfraude te voorkomen, kunnen accounts of sims die gerelateerd zijn aan elkaar niet stemmen in dezelfde verkiezing.^
 8 ^Deze verkiezingscyclus is een andere fase ingegaan. Kijk op de buurtpagina voor updates!^
 
 9 ^De sim die u probeert te beoordelen is niet de burgemeester van uw buurt. Kijk op de pagina van de buurt - als u dit ziet is het waarschijnlijk dat de burgemeester een update heeft gekregen sinds u met de beoordeling bent begonnen.^
-10 ^De beoordeling die je hebt ingediend is ongeldig, op de een of andere manier. Beoordelingen moeten van 0-10 halve sterren zijn, en opmerkingen moeten niet te lang zijn.^
-11 ^Je kunt jezelf niet beoordelen. Kom op, echt waar? ^
+10 ^De beoordeling die je hebt ingediend is ongeldig, op de een of andere manier. Beoordelingen mogen van 0-10 halve sterren zijn, en opmerkingen mogen niet te lang zijn.^
+11 ^Je kunt jezelf niet beoordelen. Kom op zeg, serieus? ^
 
 12 ^U kan niet meedoen aan de verkiezingen omdat u niet genoeg nominaties heeft gekregen voor deze verkiezingscyclus. ^
 13 ^U bent al kandidaat voor deze verkiezing - u hoeft deze niet opnieuw te aanvaarden.^
@@ -33,7 +33,7 @@ Reden: %s^
 24 ^U bent al ingeschreven voor een vrije stemming in deze verkiezingsronde. Check je bevestigingsmail voor meer informatie!^
 25 ^Uw buurt heeft zijn eigen verkiezingen, dus u kunt niet vrij stemmen.^
 26 ^U mag zich niet inschrijven voor een vrije stemming als u na het begin van de verkiezingscyclus in de buurt bent verhuisd. Sorry!^
-27 ^Er zijn geen verkiezingen waar je gebruik kunt maken van een vrij stemrecht kunt maken. Probeer het later nog eens.^
+27 ^Er zijn geen verkiezingen waar je gebruik kunt maken van een vrij stemrecht. Probeer het later nog eens.^
 
 28 ^Er is een onbekende fout opgetreden. Dit is ingelogd op de server, dus je moet het probleem waarschijnlijk melden en melden wat u vroeg zodat we het kunnen onderzoeken.^
 

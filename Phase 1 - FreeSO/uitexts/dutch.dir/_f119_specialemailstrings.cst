@@ -1,7 +1,7 @@
 ﻿1 ^Indienen van een nominatie^
 2 ^Stemmen^
 3 ^Meedoen aan de verkiezing voor burgemeester^
-4 ^Kies voor Vrije Stem Buurt^
+4 ^Kies voor vrije stem buurt^
 
 
 /*// buttons that appear in emails with special types. see MessageSpecialType in MessageItem.cs

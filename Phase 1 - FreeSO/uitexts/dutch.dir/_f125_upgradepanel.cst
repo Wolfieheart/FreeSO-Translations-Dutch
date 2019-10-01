@@ -1,4 +1,4 @@
-﻿1 ^Object opwaarderingen^
+﻿1 ^Object Upgrades^
 2 ^Dit aangekochte object kan worden opgewaardeerd!^
 3 ^U kunt dit object kopen met een opwaardering!^
 4 ^Gefeliciteerd! Dit object is volledig opgewaardeerd.^
@@ -9,7 +9,7 @@
 9 ^Aankoop op niveau "%s"^
 10 ^Opwaarderen naar %s^
 11 ^Het opwaarderen van de %s naar %s kost u %s. Deze actie kan niet worden teruggedraaid. Weet u zeker dat u door wilt gaan?
-Opmerking: Bij de aankoop van een opwaardering nadat het object is aangeschaft, is de prijs inbegrepen die verloren is gegaan door afschrijving, maar het object wordt in een nieuw aangekochte staat hersteld.^
+OPMERKING: Bij de aankoop van een opwaardering nadat het object is aangeschaft, is de prijs inbegrepen die verloren is gegaan door afschrijving, maar het object wordt in een nieuw aangekochte staat hersteld.^
 12 ^Dit object heeft geen opwaarderingen beschikbaar.^
 13 ^Deze opwaardering is aangeschaft.^
 

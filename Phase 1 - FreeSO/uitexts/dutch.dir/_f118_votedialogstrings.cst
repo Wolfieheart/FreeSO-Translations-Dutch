@@ -2,11 +2,11 @@
 
 //pre voting dialog
 2 ^Voor de stemming....^
-3 ^De nominaties zijn binnen; deze stemming toont de best genomineerde kandidaten voor uw buurt. Het is aan u om te beslissen wie uw burgemeester moet zijn, op basis van hun plannen, beoordelingen uit het verleden en uw persoonlijke ervaring met hen!
+3 ^De nominaties zijn binnen; deze stemming toont de hoogst genomineerde kandidaten voor uw buurt. Het is aan u om te beslissen wie uw burgemeester moet zijn, op basis van hun plannen, beoordelingen uit het verleden en uw persoonlijke ervaring met hen!
 
-Campagneboodschappen zijn geschreven door de kandidaten om u te overtuigen waarom zij de beste keuze zijn als burgemeester, en misschien wel ongematigd zijn. Alle steekpenningen (bv. uitbetalingen/vergeving als ze winnen) zijn tegen de regels en zullen waarschijnlijk de kandidaat gediskwalificeerd krijgen, dus je stem kan verloren gaan als je op overtreders stemt.
+Campagneboodschappen zijn geschreven door de kandidaten om u te overtuigen waarom zij de beste keuze zijn als burgemeester, en deze kunnen misschien niet nagekeken zijn. Alle omkopingen (bv. uitbetalingen/vergeving als ze winnen) zijn tegen de regels en zullen waarschijnlijk die kandidaat diskwalificeren, dus je stem kan verloren gaan als je op overtreders stemt.
 
-Kies zorgvuldig, want uw stem kan niet worden veranderd als deze eenmaal is uitgebracht. OPMERKING: U kunt slechts eenmaal stemmen in elke verkiezing - over uw 3 sims EN gerelateerde (zelfde huishouden) accounts. Deze sims zullen nog steeds in staat zijn om te stemmen in verkiezingen in *andere* wijken, hoewel.^
+Kies zorgvuldig, want uw stem kan niet worden veranderd als deze eenmaal is uitgebracht. OPMERKING: U kunt slechts eenmaal stemmen in elke verkiezing - over uw 3 sims EN gerelateerde (zelfde huishouden) accounts. Deze sims zullen echter wel nog steeds in staat zijn om te stemmen in verkiezingen in *andere* wijken.^
 
 //voting dialog
 
@@ -29,7 +29,7 @@ Zodra u in een verkiezing stemt, kunt u deze niet meer wijzigen of op een andere
 
 //nomination dialog
 12 ^Nomineren voor burgemeester^
-13 ^SKies uit de lijst van bewoners in %s een sim om te nomineren voor burgemeester. Bewoners met een sterretje zijn al eerder gekozen - klik erop om individuele beoordelingen te bekijken.
+13 ^Kies uit de lijst van bewoners in %s een sim om te nomineren voor burgemeester. Bewoners met een sterretje zijn al eerder gekozen - klik erop om individuele beoordelingen te bekijken.
 
 Kies zorgvuldig, want je nominatie kan niet worden gewijzigd als je eenmaal bent gekozen. OPMERKING: U kunt bij elke verkiezing slechts één keer nomineren - over uw 3 sims EN gerelateerde (zelfde huishouden) accounts. Deze sims zullen echter nog steeds in staat zijn om te nomineren bij verkiezingen in *andere* wijken.^
 
@@ -42,9 +42,9 @@ Zodra u in een verkiezing stemt, kunt u deze niet meer wijzigen of op een andere
 
 //run for mayor dialog
 17 ^Toetreden als burgemeesterskandidaat^
-18 ^Voer een campagneboodschap in. Als u zich tegen het einde van de nominaties in de top 5 van genomineerde sims bevindt, bent u kandidaat op de laatste stemronde, en uw campagneboodschap zal onder uw naam worden getoond.
+18 ^Voer een campagneboodschap in. Als u zich tegen het einde van de nominaties in de top 5 van genomineerde sims bevindt, bent u kandidaat in de laatste stemronde, en uw campagneboodschap zal onder uw naam worden getoond.
 
-Voordat u zich kandidaat stelt, dient u de regels te lezen op http://freeso.org/nhoodrules . In het bijzonder, uw boodschap en alle ingame campagnes mogen niet persoonlijk andere spelers aanvallen of proberen om kiezers om te kopen (bv. uitbetalingen/vergoedingen als u wint), of u kunt gediskwalificeerd worden. Als je van gedachten bent veranderd over het rennen, druk dan gewoon op Annuleren.^
+Voordat u zich kandidaat stelt, dient u de regels te lezen op http://freeso.org/nhoodrules . In het bijzonder, uw boodschap en alle ingame campagnes mogen niet persoonlijk andere spelers aanvallen of proberen om kiezers om te kopen (bv. uitbetalingen/vergoedingen als u wint), of u kunt gediskwalificeerd worden. Als je van gedachten bent veranderd over het deelnemen, druk dan gewoon op Annuleren.^
 
 19 ^Bedankt voor uw deelname aan de campagne, en veel succes! U zou binnenkort een bevestigingsmail moeten ontvangen.^
 
