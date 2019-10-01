@@ -30,7 +30,7 @@
 
 23 ^Textuurcompressie^
 24 ^Enables DXT5 Textuurcompressie voor muren, vloeren en objecten. Sprites nemen 1/4 van de VRAM in beslag ten koste van de visuele kwaliteit. Handig voor het vermijden van crashes op Intel HD Graphics of oude GPU's.^
-25 ^Deze optie zal niet volledig van kracht worden totdat u het spel opnieuw opstart! ^ Deze optie zal niet volledig van kracht worden totdat u het spel herstart!^
+25 ^Deze optie zal niet volledig van kracht worden totdat u het spel opnieuw opstart! ^ 
 
 26 ^Complex Shaders^
 27 ^Biedt verschillende complexe effecten voor high-end GPU's.
