@@ -1,5 +1,5 @@
 ﻿//Dutch Strings
-1 ^Omringende Perceels^
+1 ^Omringende Percels^
 2 ^Stadsschaduwen^
 3 ^FSO Verlichting^
 4 ^Schaduw Detail^
@@ -8,9 +8,9 @@
 7 ^Object Schaduwen^
 
 //NL: Omringende Lot Opties
-8 ^Geen omliggende perceels. Grijze leegte wordt buiten de perceel getrokken.^
-9 ^Lege omliggende perceels. (alleen grond en bomen) ^
-10 ^Volledige omliggende perceels. (architectuur, buiten objecten) ^
+8 ^Geen omliggende percels. Grijze leegte wordt buiten de perceel getrokken.^
+9 ^Lege omliggende percels. (alleen grond en bomen) ^
+10 ^Volledige omliggende percels. (architectuur, buiten objecten) ^
 
 11 ^3D schaduwen^
 12 ^Stad Skybox^
