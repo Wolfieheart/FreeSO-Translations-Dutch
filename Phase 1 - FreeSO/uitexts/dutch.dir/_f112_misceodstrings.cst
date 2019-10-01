@@ -1,4 +1,34 @@
-﻿1 ^You have zero cards in this game deck.^
+﻿1 ^U heeft nul kaarten in dit spel deck.^
+2 ^Kaart verwijderen^
+3 ^Wilt u uw wijzigingen opslaan?^
+4 ^Kaart wijzigen^
+5 ^Fout: U heeft het maximale aantal individuele kaarten al opgeslagen.^
+6 ^Serverfout. De kaart kon niet worden verwijderd.^
+7 ^Phew! Deze ronde is een gelijkspel....^
+8 ^Gelijkspel^
+9 ^Oh nee! Het spel is een patstelling!^
+10 ^Patstelling^
+11 ^Celkleur: ^
+12 ^Blauw^
+13 ^Groen^
+14 ^Rood^
+15 ^Geel^
+16 ^Geen^
+17 ^Oh nee! Een kudde lama's stampte voorbij en sloeg het kompas. Meer geluk de volgende reis!^
+18 ^Geen geluk in dit doolhof, misschien zit je schat wel in een ander kasteel!^
+19 ^You hear a thud and the radio goes dead. Don’t worry... I’m sure the explorer is FINE!^
+20 ^Uw map brandt spontaan! De vloek van de lama is slechts een verhaal.... toch?^
+21 ^Verdorie, het ziet er naar uit dat iemand je deze keer voor de prijs heeft verslagen!^
+22 ^Hoera, je hebt een stevige gouden lama gevonden! Ik weet zeker dat iemand daarbuiten er een nodig heeft.^
+23 ^De schat is van jou! Vergeet niet om uw vriendelijke buurtverkenner een fooi te geven..^
+24 ^WOW een griezelig gloeiende paarse schedel met edelstenen erin! Ik ben er zeker van dat het helemaal niet vervloekt is..^
+25 In een laatste seconde vecht je een rivaliserende ontdekkingsreiziger uit de weg en claim je de prijs!^
+26 ^Een schatkist! Je zou rijk zijn zonder het feit dat je niet in het doolhof bent.^
+27 ^Mislukking^
+28 ^Succesvol^
+
+/*
+1 ^You have zero cards in this game deck.^
 2 ^Delete card^
 3 ^Do you want to save your changes?^
 4 ^Edit card^
@@ -26,3 +56,4 @@
 26 ^A treasure chest! You’d be rich if it were not for the fact that you aren’t actually in the maze.^
 27 ^Failure^
 28 ^Success^
+*/
