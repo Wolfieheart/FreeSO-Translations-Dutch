@@ -1,0 +1,220 @@
+﻿1 ^Roulette^
+2 ^Blackjack^
+3 ^tafel^
+4 ^%s bustes!^
+5 ^%s heeft blackjack!^
+6 ^%s staat op %d.^
+7 ^%s heeft geen blackjack.^
+8 ^Verzekering^
+9 ^Verzekerd!^
+10 ^Fout^
+11 ^Wilt u een verzekering?^
+12 ^Verzekering kost de helft van uw inzetbedrag, dat is $%d.^
+13 ^Als u een verzekering koopt en de dealer heeft blackjack, krijgt u uw gehele inzetbedrag terug..^
+14 ^U kocht een verzekering voor $%d.^
+15 ^Wedden Fout^
+16 ^Deze foutmelding mag nooit verschijnen. Meld dit en wat u gedaan heeft om het te krijgen!^
+17 ^Het is niet jouw beurt.^
+18 ^U kunt niet slaan op deze hand.^
+19 ^U kunt niet verdubbelen op deze hand.^
+20 ^U kunt deze hand niet splitsen.^
+21 ^Uw weddenschap moet ten minste $%d.^
+22 ^Uw weddenschap kan niet groter zijn dan $%d.^
+23 ^U heeft niet genoeg geld om die weddenschap te maken.^
+24 ^U heeft niet genoeg geld om te verdubbelen^
+25 ^U heeft niet genoeg geld om te splitsen.^
+26 ^U kunt deze ronde observeren, maar u moet op de volgende ronde inzetten en spelen..^
+27 ^U bent van de tafel verwijderd wegens inactiviteit.^
+28 ^De tabel moest worden afgesloten wegens onvoldoende saldo. Misschien moet u het de eigenaar laten weten?^
+29 ^"X Marks the Spot" Uitbetalingstabel^
+30 ^"'Jackpot' by Lucky LLC" Uitbetalingstabel^
+31 ^Kom niet terug tot je meer Simoleons hebt.^
+32 ^U kunt geen andere chip op deze stapel plaatsen.^
+33 ^$%d van de chips zou over de maximaal toegestane inzet zijn.^
+34 ^Dat zou meer zijn dan de maximaal toegestane inzet.^
+35 ^Er is een onbekende fout opgetreden. Uw laatste weddenschap werd niet geaccepteerd.^
+36 ^Call^
+37 ^Fold^
+38 ^U moet een Ante inzet doen om te spelen. Als je de dealer verslaat, betaalt het je op basis van de hand die je hebt (zie: Leer te gebruiken...Uitbetalingen). Maar pas op: uw Call inzet is altijd 2x uw Ante inzet, en u moet bellen om uw Ante inzet te winnen!^
+39 ^Ante inzet^
+40 ^Voeg $%d toe aan Ante inzet^
+41 ^Voeg $%d toe aan Side inzet^
+42 ^Side inzet^
+43 ^Optionele Side Inzetten worden betaald zodra de eerste 3 gemeenschappelijke kaarten (de flop) worden gedeeld en de uitbetaling is gebaseerd op de 5 kaarten die u met de flop en uw 2 hole cards maakt. U hoeft niet te bellen om uw side bet te winnen, maar u moet wel een paar azen of beter gezegd een paar azen hebben om te winnen!^
+44 ^Duidelijk Ante inzet^
+45 ^Duidelijk Side inzet^
+46 ^Plaats uw weddenschappen. Min. Ante: $%d^
+47 ^Wacht tot de volgende hand om in te zetten.^
+48 ^%s folds, hun Ante inzet verbeuren.^
+49 ^%s calls.^
+50 ^Hold 'em Casino^
+51 ^Uw Ante inzet moet ten minste zijn $%d.^
+52 ^Uw Ante inzet kan niet groter zijn dan $%d.^
+53 ^Uw Side inzet kan niet groter zijn dan$%d.^
+54 ^U hebt er niet genoeg geld te call. Om te kunnen call, moet u twee keer uw Ante inzet neerzetten. ^
+55 ^Uw Ante inzet is niet geldig.^
+56 ^Uw Side Inzet is niet geldig, maar uw Ante Inzet is wel geldig. Doorgaan met een $0 side inzet?^
+57 ^Dat is geen geldig nummer! Uw inzet werd teruggezet naar $0.^
+58 ^Jouw beurt. Het is $%d te call.^
+59 ^Side inzet: $%d voor ^
+60 ^Royal Flush^
+61 ^Straight Flush^
+62 ^4 of a kind^
+63 ^Full House^
+64 ^Flush^
+65 ^Straight^
+66 ^3 of a Kind^
+67 ^2 Pair^
+68 ^Kicker^
+69 ^1 Pair^
+70 ^High Card^
+71 ^(Min: $%n Max: $%x)^
+72 ^Dealer kwam niet in aanmerking. U wint $%d^
+73 ^Duwen! U deelt de pot: ^
+74 ^Dealer wint: ^
+75 ^U wint $%d met: ^
+76 ^Voordat de laatste 2 gemeenschappelijke kaarten worden gedeeld (de beurt en de rivier), moet u CALL. Uw Call inzet is altijd 2x uw Ante inzet. Na het CALL, als de dealer zich kwalificeert (een Pair of Fours of beter) dan wint u een Call betaling van 1:1 en uw Ante inzet wordt betaald op basis van uw hand. U kunt uw Ante inzet ook VASTEN en uw Ante inzet verbeuren als u niet denkt dat uw hand sterk zal zijn.^
+77 ^5 Card Draw^
+78 ^5 Card Stud^
+79 ^7 Card Draw^
+80 ^7 Card Stud^
+81 ^cards are Wild^
+82 ^Hold^
+83 ^Ante inzet hulp^
+84 ^Side inzet hulp^
+85 ^Call or Fold knop hulp^
+86 ^Video Poker^
+87 ^het is $%d te Call.^
+88 ^U heeft uw side inzet niet gewonnen.^
+89 ^U folded.^
+90 ^Wow. Die laatste ronde was heet. Te heet. Het lijkt erop dat het de tafel gebroken heeft. Misschien moet u het de eigenaar laten weten?^
+91 ^Ace^
+92 ^King^
+93 ^Queen^
+94 ^Jack^
+95 ^Ten^
+96 ^Nine^
+97 ^Eight^
+98 ^Seven^
+99 ^Six^
+100 ^Five^
+101 ^Four^
+102 ^Three^
+103 ^Two^
+104 ^Clubs^
+105 ^Diamonds^
+106 ^Hearts^
+107 ^Spades^
+108 ^high^
+
+
+/*
+1 ^Roulette^
+2 ^Blackjack^
+3 ^table^
+4 ^%s busts!^
+5 ^%s has blackjack!^
+6 ^%s stands on %d.^
+7 ^%s does not have blackjack.^
+8 ^Insurance^
+9 ^Insured!^
+10 ^Error^
+11 ^Do you want insurance?^
+12 ^Insurance costs half of your bet amount, which is $%d.^
+13 ^If you buy insurance and the dealer has blackjack, you will get your whole bet amount back.^
+14 ^You bought insurance for $%d.^
+15 ^Betting Error^
+16 ^This error message should never appear. Please report this and what you did to get it!^
+17 ^It's not your turn.^
+18 ^You cannot hit on this hand.^
+19 ^You cannot double down on this hand.^
+20 ^You cannot split this hand.^
+21 ^Your bet must be at least $%d.^
+22 ^Your bet cannot be greater than $%d.^
+23 ^You don't have enough money to make that bet.^
+24 ^You don't have enough money to double down.^
+25 ^You don't have enough money to split.^
+26 ^You can observe this round, but you must bet and play on the next one.^
+27 ^You were removed from the table due to inactivity.^
+28 ^The table had to close due to insufficient balance. Perhaps you should let the owner know?^
+29 ^"X Marks the Spot" Payout Table^
+30 ^"'Jackpot' by Lucky LLC" Payout Table^
+31 ^Don't come back until you have more Simoleons.^
+32 ^You can't place another chip onto this stack.^
+33 ^$%d of chips would be over the maximum allowed bet.^
+34 ^That would be over the maximum allowed bet.^
+35 ^An unknown error occured. Your last bet was not accepted.^
+36 ^Call^
+37 ^Fold^
+38 ^You must make an Ante Bet to play. If you beat the dealer, it pays you based on the hand you have (see: Learn To Use...Payouts). But beware: your Call Bet is always 2x your Ante Bet, and you have to call to win your Ante Bet!^
+39 ^Ante Bet^
+40 ^Add $%d to Ante Bet^
+41 ^Add $%d to Side Bet^
+42 ^Side Bet^
+43 ^Optional Side Bets are paid as soon as the first 3 community cards (the flop) are dealt and the payout is based on the 5 card hand you make with the flop and your 2 hole cards. You don't have to call to win your Side Bet, but you must have a Pair of Aces or better to win it!^
+44 ^Clear Ante Bet^
+45 ^Clear Side Bet^
+46 ^Place your bets. Min Ante: $%d^
+47 ^Wait until the next hand to bet.^
+48 ^%s folds, forfeiting their Ante Bet.^
+49 ^%s calls.^
+50 ^Hold 'em Casino^
+51 ^Your Ante Bet must be at least $%d.^
+52 ^Your Ante Bet cannot be greater than $%d.^
+53 ^Your Side Bet cannot be greater than $%d.^
+54 ^You don't have enough money to call. In order to call, you must put down two times your Ante Bet.^
+55 ^Your Ante Bet is not valid.^
+56 ^Your Side Bet is not valid, but your Ante Bet is valid. Proceed with $0 Side Bet?^
+57 ^That is not a valid number! Your bet was reset to $0.^
+58 ^Your turn. It's $%d to call.^
+59 ^Side Bet: $%d for ^
+60 ^Royal Flush^
+61 ^Straight Flush^
+62 ^4 of a kind^
+63 ^Full House^
+64 ^Flush^
+65 ^Straight^
+66 ^3 of a Kind^
+67 ^2 Pair^
+68 ^Kicker^
+69 ^1 Pair^
+70 ^High Card^
+71 ^(Min: $%n Max: $%x)^
+72 ^Dealer did not qualify. You win $%d^
+73 ^Push! You split the pot: ^
+74 ^Dealer wins: ^
+75 ^You win $%d with: ^
+76 ^Before the final 2 community cards are dealt (the turn and the river), you have to CALL. Your Call Bet is always 2x your Ante Bet. After calling, if the dealer qualifies (a Pair of Fours or better) then you win a Call Bet Payout of 1:1 and your Ante Bet is paid based on your hand. You can also FOLD and forfeit your Ante Bet if you don't think your hand will be strong.^
+77 ^5 Card Draw^
+78 ^5 Card Stud^
+79 ^7 Card Draw^
+80 ^7 Card Stud^
+81 ^cards are Wild^
+82 ^Hold^
+83 ^Ante Bet Help^
+84 ^Side Bet Help^
+85 ^Call or Fold Button Help^
+86 ^Video Poker^
+87 ^it's $%d to Call.^
+88 ^You did not win your side bet.^
+89 ^You folded.^
+90 ^Wow. That last round was hot. Too hot. It seems it broke the table. Maybe you should let the owner know?^
+91 ^Ace^
+92 ^King^
+93 ^Queen^
+94 ^Jack^
+95 ^Ten^
+96 ^Nine^
+97 ^Eight^
+98 ^Seven^
+99 ^Six^
+100 ^Five^
+101 ^Four^
+102 ^Three^
+103 ^Two^
+104 ^Clubs^
+105 ^Diamonds^
+106 ^Hearts^
+107 ^Spades^
+108 ^high^
+*/
