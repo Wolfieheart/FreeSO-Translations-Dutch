@@ -8,6 +8,49 @@
 	kStreetAddressText,
 	kTutorialCannotMoveInText,
 
+^De Familie %s
+Netto Waarde: %s
+Vrienden: %d^
+
+^Kosten: %s
+Spelen: selecteer of maak een familie en geef ze hun eigen plek in de buurt.^
+
+^Kosten: %s
+De familie %s heeft maar %s.  Zij kunnen zich dit huis niet veroorloven.^
+
+^Kosten: %s
+Dit zou wel eens je droomhuis kunnen zijn! Als je het koopt, heeft de familie %s om te besteden aan huisraad.^
+
+^Kosten: %s
+The %s family only has %s.  They can't afford this lot.^
+
+^Kosten: %s
+Dit zou wel eens het kavel van je dromen kunnen zijn! Als je het koopt, heeft de familie %s te besteden om een huis te bowen en huisraad te kopen.^
+
+^Om het spel te leren spelen....^
+
+^Simlaan %s^
+
+^Je kunt niet naar het tutorial huis verhuizen!^
+
+^De Familie %s 
+Netto Waarde: %s
+Vrienden: %d
+Klik om deze familie uit hun huis te zetten^
+
+^Klik om dit huis te slopen.^
+
+^Er is niemand om uit te zetten en niets om te slopen.^
+
+^Je kunt het tutorial huis niet bulldozeren voordat je de tutorial hebt gedaan.^
+
+^Welkom thuis %s!^
+^Verbinding maken met huis "%s" op "%s". ER zijn %s in dit huis.^
+^Welkom thuis %s!  Uw huis is al online op "%s".  Er zijn %s in dit huis.^
+^is 1 persoon^
+^zijn %d mensen^
+
+/*
 ^The %s Family
 Net Worth: %s
 Friends: %d^
@@ -49,3 +92,4 @@ Click to evict this family.^
 ^Welcome home %s!  Your house is already online on "%s".  There %s in this house.^
 ^is 1 person^
 ^are %d people^
+*/

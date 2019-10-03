@@ -1,0 +1,311 @@
+kPErrLocationOutOfBounds
+^Buiten de grenzen van de locatie^
+
+kPErrLevelOutOfBounds
+^Buiten de grenzen van de verdieping^
+
+kPErrMustBeAtTileCenter
+^Moet in het midden van de tegel staan^
+
+kPErrMustBeInCorner
+^Moet in de hoek staan^
+
+kPErrCantBeInCorner
+^Kan niet in de hoek staan^
+
+kPErrMustBeAgainstWall
+^Moet tegen een muur geplaatst worden!^
+
+kPErrCantBeThroughWall
+^Kan niet door de muur^
+
+kPErrMustBeOnUpstairsFloorHole
+^Moet over een gat in de vloer zitten^
+
+kPErrMustBeOutside
+^Moet buiten zijn^
+
+kPErrMustBeInside
+^Moet binnen zijn^
+
+kPErrCantIntersectOtherObjects
+^Kan andere objecten niet kruisen^
+
+kPErrMustBeOnGround
+^Moet op zijn eigen tegel op de grond liggen^
+
+kPErrCantFindSlot
+^Kan geen plaats vinden om het te zetten...^
+
+kPErrCantSupportWeight
+^Kan het gewicht niet dragen^
+
+kPErrCantSupportSize
+^Can't support the size^
+
+kPErrCantPlaceOnTop
+^Kan de grootte niet ondersteunen^
+
+kPErrCantPlaceOnSlope
+^Kan niet op een helling geplaatst worden^
+
+kPErrCantPlaceInAir
+^Moet op een tweede verdieping vloertegel geplaatst worden.^
+
+kPErrNotAllowedOnFloor
+^Moet op het terrein geplaatst worden^
+
+kPErrNotAllowedOnTerrain
+^Moet op een vloertegel worden geplaatst^
+
+kPErrCantAfford
+^Onvoldoende middelen^
+
+kPErrMustBeAgainstUnusedWall
+^Moet tegen een ongebruikte muur staan^
+
+kPErrMustBeOnDiagonal
+^Moet op diagonaal staan.^
+
+kPErrHeightNotAllowed
+^Moet op tafel of oppervlak worden geplaatst^
+
+kPErrInsufficientFunds
+^Onvoldoende middelen^
+
+kPErrSpecialShowMoneyError
+^De gebruiker zou dit bericht nooit moeten zien.^
+
+kPErrHasWater
+^Kan niet meer water toevoegen^
+
+kPErrNoWater
+^Geen water om te verwijderen^
+
+kPErrCantPlaceOnWater
+^Kan niet over water worden geplaatst^
+
+kPErrMustPlaceOnWater
+^Moet op water geplaatst worden^
+
+kPErrMustPlaceOnPool
+^Moet op de tegel van het zwembad worden geplaatst^
+
+kPErrMustBeOnFirstLevel
+^Moet op de begane grond geplaatst worden^
+
+// wall-specific
+kPErr2ndFloorNeedsSupport,
+^Tweede verdieping muur heeft ondersteuning nodig vanaf de eerste verdieping^
+
+kPErrMustRemoveObjectsOnWall,
+^Moet eerst voorwerpen op de muur verwijderen.^
+
+// wallpaper-specific
+kMustBeAgainst2ndFloorWall
+^Moet zich op de muur op de tweede verdieping bevinden.^
+
+kPErrCannotDeleteObject
+^Kan geen object in gebruik verwijderen^
+
+kPErrObjectNotOwnedByYou
+^Dat is niet van jou!^
+
+kPErrCounterHeight
+^Moet op de toonbank worden geplaatst^
+
+kPErrCantBePickedup
+^Kan niet oppakken.^
+
+kPErrInUse
+^Kan geen object in gebruik selecteren^
+
+kPErrCantBePickedupOutOfBounds
+^Kan de locatie niet buiten de grenzen oppakken^
+
+kPErrCantEffectFirstLevelFromSecondLevel
+^Kan het eerste verdieping van het tweede verdieping niet beïnvloeden^
+
+kPErrCantPlaceInAirOtherLevel
+^Moet aansluiten op het tweede verdieping^
+
+kPErrNotAllowedOnFloorOtherLevel
+^Kan geen object van de tweede verdieping kruisen^
+
+kPErrCannotPlaceComputerOnEndTable,
+^Kan niet op de eindtafel geplaatst worden^
+
+kPErrCannotDeletePoolWhilePeopleAreInIt
+^Kan pool met Sims niet verwijderen^
+
+kPErrMustRemoveLadderOrDivingBoardBeforeDeletingPool
+^Moet eerst ladder of duikplank verwijderen^
+
+kPErrCannotWallpaperFence
+^Kan geen behang op hekken geplaatst worden^
+
+kPErrMustHaveMoreSpaceFromCeiling
+^Moet meer ruimte hebben vanaf het plafond^
+
+kPErrTooManyObjectsOnTheLot
+^Eigendom object limiet overschreden^
+
+kpErrCantPlaceOnForSaleObject
+^Kan niet op een te koop aangeboden object  geplaatst worden ^
+
+
+/* kPErrLocationOutOfBounds
+^Location out of bounds^
+
+kPErrLevelOutOfBounds
+^Level out of bounds^
+
+kPErrMustBeAtTileCenter
+^Must be at center of tile^
+
+kPErrMustBeInCorner
+^Must be in corner^
+
+kPErrCantBeInCorner
+^Can't be in corner^
+
+kPErrMustBeAgainstWall
+^Must be against wall^
+
+kPErrCantBeThroughWall
+^Can't intersect wall^
+
+kPErrMustBeOnUpstairsFloorHole
+^Must be over hole in floor^
+
+kPErrMustBeOutside
+^Must be outside^
+
+kPErrMustBeInside
+^Must be inside^
+
+kPErrCantIntersectOtherObjects
+^Can't intersect other objects^
+
+kPErrMustBeOnGround
+^Must be on its own tile on the ground^
+
+kPErrCantFindSlot
+^Can't find a place to put it^
+
+kPErrCantSupportWeight
+^Can't support the weight^
+
+kPErrCantSupportSize
+^Can't support the size^
+
+kPErrCantPlaceOnTop
+^Can't place on top^
+
+kPErrCantPlaceOnSlope
+^Can't place on slope^
+
+kPErrCantPlaceInAir
+^Must place on second-story floor tile^
+
+kPErrNotAllowedOnFloor
+^Must be placed on terrain^
+
+kPErrNotAllowedOnTerrain
+^Must place on floor tile^
+
+kPErrCantAfford
+^Insufficient funds^
+
+kPErrMustBeAgainstUnusedWall
+^Must be against unused wall^
+
+kPErrMustBeOnDiagonal
+^Must be on diagonal^
+
+kPErrHeightNotAllowed
+^Must place on table or surface^
+
+kPErrInsufficientFunds
+^Insufficient Funds^
+
+kPErrSpecialShowMoneyError
+^User should never see this message^
+
+kPErrHasWater
+^Cannot add more water^
+
+kPErrNoWater
+^No water to delete^
+
+kPErrCantPlaceOnWater
+^Cannot place over water^
+
+kPErrMustPlaceOnWater
+^Must be placed on water^
+
+kPErrMustPlaceOnPool
+^Must be placed on pool tile^
+
+kPErrMustBeOnFirstLevel
+^Must be on first story^
+
+// wall-specific
+kPErr2ndFloorNeedsSupport,
+^Second story wall needs support from first floor^
+
+kPErrMustRemoveObjectsOnWall,
+^Must remove objects on wall first^
+
+// wallpaper-specific
+kMustBeAgainst2ndFloorWall
+^Must be on second floor wall^
+
+kPErrCannotDeleteObject
+^Can't delete object in use^
+
+kPErrObjectNotOwnedByYou
+^You do not own that!^
+
+kPErrCounterHeight
+^Must be placed on counter^
+
+kPErrCantBePickedup
+^Can't pick up^
+
+kPErrInUse
+^Can't select object in use^
+
+kPErrCantBePickedupOutOfBounds
+^Can't pick up--location out of bounds^
+
+kPErrCantEffectFirstLevelFromSecondLevel
+^Can't effect first level from second level^
+
+kPErrCantPlaceInAirOtherLevel
+^Must connect to second story^
+
+kPErrNotAllowedOnFloorOtherLevel
+^Can't intersect second-story object^
+
+kPErrCannotPlaceComputerOnEndTable,
+^Can't place on end table^
+
+kPErrCannotDeletePoolWhilePeopleAreInIt
+^Can't delete pool with Sims in it^
+
+kPErrMustRemoveLadderOrDivingBoardBeforeDeletingPool
+^Must first delete ladder or diving board^
+
+kPErrCannotWallpaperFence
+^Can't place wallpaper on fences^
+
+kPErrMustHaveMoreSpaceFromCeiling
+^Must have more space from ceiling^
+
+kPErrTooManyObjectsOnTheLot
+^Property object limit exceeded^
+
+kpErrCantPlaceOnForSaleObject
+^Can't place on for-sale object^
+*/

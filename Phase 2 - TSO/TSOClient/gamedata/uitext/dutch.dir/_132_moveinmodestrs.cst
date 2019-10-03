@@ -23,14 +23,15 @@
 ^Het huis wordt bewoond^
 ^Dit huis wordt door een andere familie bewoond.^
 
-^Tutorial House^
-^This is a tutorial house.  Families may not move into it.^
+^Tutorial huis^
+^Dit is een huis voor de tutorial.  Families mogen er niet intrekken.^
 
-^Error!^
-^Could not move in!^
+^Fout!^
+^Kon niet intrekken!^
 
-^House Full^
-^This house is too full for you to enter at this time.^
+^Huis vol^
+^Dit huis is te vol voor u om er op dit moment in te gaan.^
+
 /*
 ^Purchase House?^
 ^Are you sure you want to buy this house?^
