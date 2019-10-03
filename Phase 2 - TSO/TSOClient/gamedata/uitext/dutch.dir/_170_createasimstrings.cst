@@ -1,0 +1,61 @@
+1  ^Annuleren^
+2  ^Accepteer^
+3  ^Vul hier de naam van je Sim in. Dit is de naam die andere spelers je zullen kennen en die later niet meer veranderd kan worden.^
+4  ^Andere spelers zullen in staat zijn om deze beschrijving te zien vanaf je Sim pagina in het spel. Maak je geen zorgen om het precies goed te krijgen.... je kunt het later veranderen.^
+5  ^Afsluiten spel^
+6  ^Vrouw^
+7  ^Man^
+8  ^Licht^
+9  ^Gemiddeld^
+10 ^Donker^
+11 ^De naam die u hebt ingevoerd is ongeldig. De volgende problem(en) zijn gevonden:^
+12 ^- Naam te kort. Heb minstens 3 tekens nodig.^
+13 ^- Naam te lang. Maximaal 24 tekens zijn toegestaan^
+14 ^- Numerieke (0-9) tekens zijn niet toegestaan.^
+15 ^- Slechts één apostrof (') toegelaten.^
+16 ^- Slechts één streepje (-) toegestaan.^
+17 ^- Slechts twee niet-aaneengesloten ruimten zijn toegestaan.^
+18 ^- Geen speciale tekens toegestaan.^
+19 ^- Er is een gereserveerd of onjuist woord gedetecteerd.^
+20 ^Scroll omhoog^
+21 ^Scroll omlaag^
+22 ^Creëer uw In-Game Identiteit^
+23 ^Fav. muziek: 
+Fav. film:
+Inschakelen van de camera's:
+Schakel uit:
+Citaat: ^
+24 ^Het maken van nieuwe Sim....^
+25 ^Even geduld a.u.b, terwijl uw nieuwe Sim wordt gemaakt....^
+
+/*
+1  ^Cancel^
+2  ^Accept^
+3  ^Enter your Sim's name here. This is the name other players will know you by and cannot be changed later.^
+4  ^Other players will be able to see this description from your Sim page in the game. Don't worry about getting it exactly right... you can change it later.^
+5  ^Exit Game^
+6  ^Female^
+7  ^Male^
+8  ^Light Color Skin^
+9  ^Medium Color Skin^
+10 ^Dark Color Skin^
+11 ^The name you have entered is invalid. The following problem(s) have been found:^
+12 ^- Name too short. Need at least 3 characters.^
+13 ^- Name too long. At most 24 characters are allowed.^
+14 ^- No numeric (0-9) characters are allowed.^
+15 ^- Only one apostrophe (') allowed.^
+16 ^- Only one dash (-) allowed.^
+17 ^- Only two non-contiguous spaces allowed.^
+18 ^- No special characters allowed.^
+19 ^- A reserved or improper word has been detected.^
+20 ^Scroll Up^
+21 ^Scroll Down^
+22 ^Create Your In-Game Identity^
+23 ^Fav. music: 
+Fav. movie:
+Turn ons:
+Turn offs:
+Quote: ^
+24 ^Creating New Sim...^
+25 ^Please wait while your new Sim is being created...^
+*/

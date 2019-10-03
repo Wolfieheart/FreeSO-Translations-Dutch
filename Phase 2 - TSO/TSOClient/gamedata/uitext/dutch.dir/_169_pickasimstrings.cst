@@ -1,0 +1,60 @@
+1 ^Afsluiten of Afmelden het spel^
+2 ^Sim Naam^
+3 ^Sim Beschrijving^
+4 ^Maak een nieuwe Sim^
+5 ^Op pensioen gaan met deze sim^
+6 ^Ga naar het stadsbeeld^
+7 ^Klik om naar de stad te gaan en uw woning in te voeren^
+8 ^Onbekend^
+9 ^Verwijderen Sim^
+10 ^Als u uw Sim op pensioen gaat verliest u al hun geld, objecten, vrienden, vrienden, bladwijzers, eigendommen, enz. - weet u zeker dat u ze met pensioen wilt laten gaan?^
+11 ^Klik om de stad te betreden^
+12 ^Klik om een nieuwe sim te maken^
+13 ^Ga het spel in^
+14 ^Sim Beschrijving^
+15 ^Scroll omhoog^
+16 ^Scroll omlaag^
+17 ^Je Sims: Welke wil je spelen?^
+18 ^%.2d:%.2d^
+19 ^Waarschuwing time-out^
+20 ^U heeft minder dan %d minuten om een nieuwe Sim te selecteren of aan te maken. Na afloop van de timer wordt u terug naar het inlogscherm gebracht....^
+21 ^U heeft nu minder dan %d minuten om een nieuwe Sim te selecteren of aan te maken. Na afloop van de timer wordt u terug naar het inlogscherm gebracht....^
+22 ^Fout op pensioen gaan Avatar^
+23 ^ -- Avatars kunnen slechts om de 7 dagen per stad op pensioen gaan.^
+24 ^Deze stad is nu offline op dit moment.^
+25 ^Sorry, deze stad is momenteel tijdelijk overvol. Probeer het later nog eens!^
+26 ^Kredieten^
+27 ^Vrije wil^
+28 ^Bekijk of maak Sims in een "Vrije Wil"-stad of maak ze aan^
+
+
+/*
+1 ^Exit Or Logout From The Game^
+2 ^Sim Name^
+3 ^Sim Description^
+4 ^Create A New Sim^
+5 ^Retire This Sim^
+6 ^Go To City View^
+7 ^Click To Go To City And Enter Your Property^
+8 ^Unknown^
+9 ^Delete Sim^
+10 ^If you retire your Sim you will lose all their money, objects, friends, bookmarks, property, etc. - are you sure you want to retire them?^
+11 ^Click To Enter The City^
+12 ^Click To Create A New Sim^
+13 ^Enter The Game^
+14 ^Sim Description^
+15 ^Scroll Up^
+16 ^Scroll Down^
+17 ^Your Sims: Which One Do You Want to Play?^
+18 ^%.2d:%.2d^
+19 ^Time Out Warning^
+20 ^You have less than %d minutes to select or create a new Sim. You will be taken back to the login screen when the counter expires...^
+21 ^You now have less than %d minutes to select or create a new Sim. You will be taken back to the login screen when the counter expires...^
+22 ^Error Retiring Avatar^
+23 ^ -- Avatars can only be retired once every 7 days per city.^
+24 ^This city is offline right now.^
+25 ^Sorry, this city is temporarily overcrowded right now. Please try again later!^
+26 ^Credits^
+27 ^Free Will^
+28 ^View or create Sims in a "Free Will" city^
+*/

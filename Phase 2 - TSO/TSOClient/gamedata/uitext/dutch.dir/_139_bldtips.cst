@@ -1,3 +1,22 @@
+^Tereeingereedschap^
+^Watergereedschap^
+^Muur- & Hekgereedschap^
+^Behanggereedschap^
+^Trapgereedschap^
+^Openhaardgereedschap^
+^Plantgereedschap^
+^Vloergereedschap^
+^Deurgereedschap^
+^Raamgereedschap^
+^Dakgereedschap^
+^Handgereedschap^
+
+^Laaste actie ongedaan maken^
+^Laaste actie herhalen^
+^Vorige Pagina^
+^Volgende Pagina^
+
+/*
 ^Terrain Tool^
 ^Water Tool^
 ^Wall & Fence Tool^
@@ -15,3 +34,4 @@
 ^Redo Last^
 ^Previous Page^
 ^Next Page^
+*/

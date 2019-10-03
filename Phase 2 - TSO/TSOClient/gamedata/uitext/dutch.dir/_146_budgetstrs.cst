@@ -1,4 +1,27 @@
-1  ^Cash^
+1  ^Geld^
+2  ^Netto Waarde^
+3  ^Rekeningen^
+4  ^Inkomsten^
+5  ^Uitgaven^
+6  ^Geld^
+7  ^Netto Waarde^
+8  ^Rekeningen^
+9  ^Inkomsten^
+10 ^Uitgaven^
+11 ^Budget^
+12 ^Scroll omhoog^
+13 ^Scroll omlaag^
+14 ^Sluiten^
+15 ^Geldwaarde:^
+16 ^Geld in objecten:^
+17 ^Objectwaarde:^
+18 ^Architectuurwaarde:^
+19 ^Totaal:^
+
+
+
+
+/*1  ^Cash^
 2  ^Net Worth^
 3  ^Bills^
 4  ^Income^
@@ -16,7 +39,7 @@
 16 ^Money In Objects:^
 17 ^Object Value:^
 18 ^Architecture Value:^
-19 ^Sum Total:^
+19 ^Sum Total:^*/
 
 
 

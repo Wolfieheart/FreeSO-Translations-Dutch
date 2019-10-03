@@ -1,0 +1,65 @@
+1  ^Leven - F1^
+2  ^Kopen - F2^
+3  ^Bouwen - F3^
+4  ^Eigendom - F4^
+5  ^Opties - F5^
+6  ^Eerste Verdieping^
+7  ^Tweede Verdieping^
+8  ^Muren omlaag^
+9  ^Opengewerkte Muren^
+10 ^Muren omhoog^
+11 ^Dak^
+12 ^Dichtstbijzijnde Zoom^
+13 ^Middel Zoom^
+14 ^Verre Zoom^
+15 ^Buurt^
+16 ^Stad^
+17 ^Inzoomen^
+18 ^Uitzoomen^
+19 ^Rechtsom draaien^
+20 ^Linksom draaien^
+21 ^Relatie web^
+22 ^Postvak IN^
+23 ^Hulp^
+24 ^Budget Venster^
+25 ^Selecteer Eigendomsweergave^
+26 ^Karakter Naam^
+27 ^Huidige tijd^
+28 ^Beschikbare fondsen^
+29 ^Bladwijzers^
+30 ^U heeft %d nieuwe bericht(en).^
+31 ^> ^
+
+/*
+1  ^Live Mode - F1^
+2  ^Buy Mode - F2^
+3  ^Build Mode - F3^
+4  ^Property Mode - F4^
+5  ^Options Mode - F5^
+6  ^First Floor^
+7  ^Second Floor^
+8  ^Walls Down^
+9  ^Walls Cutaway^
+10 ^Walls Up^
+11 ^Roof^
+12 ^Close Zoom^
+13 ^Medium Zoom^
+14 ^Far Zoom^
+15 ^Neighborhood^
+16 ^City^
+17 ^Zoom In^
+18 ^Zoom Out^
+19 ^Rotate Right^
+20 ^Rotate Left^
+21 ^Relationship Web^
+22 ^Inbox^
+23 ^Help^
+24 ^Budget Window^
+25 ^Select Property View^
+26 ^Character Name^
+27 ^Current Time^
+28 ^Available Funds^
+29 ^Bookmarks^
+30 ^You have %d new message(s)^
+31 ^> ^
+*/
