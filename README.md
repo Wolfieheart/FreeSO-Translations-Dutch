@@ -7,12 +7,14 @@ This repo is maintained by W0lfstorm. You can see my progress for this project h
 
 As I outlined over on the FreeSO Forums, this project will be split into 2 parts:
 
-1. UI Texts from FreeSO (ETA: October 5th 2019)  
-> This is what I am currently working on. There are 25 files to be translated, of which all have 10+ strings of text. These are the things that the user will see and interact with almost everyday, so the language in this will need to be correct. 
+1. UI Texts from FreeSO (ETA: October 5th 2019 || Awaiting final checks of EOD Files)  
+> This is what I am currently working on. There are 25 files to be translated, of which all have 10+ strings of text. 
+> These are the things that the user will see and interact with almost everyday, so the language in this will need to be correct. 
 
 
-2. UT Texts from The Sims Online [Base Game Items] (ETA: Before End of November 2019)  
+2. UT Texts from The Sims Online [Base Game Items] (ETA: Before End of November 2019 || Started: October 3rd 2019)  
 > This will be Phase 2 of the translation. As part of the FreeSO experience, players are required to get The Sims Online. Therefore all of these strings will also require translation.
+> NOTE: This also includes some leftovers from The Sims, but most of that has been translated with the help of "De Complete Sims Collectie" install I have on Windows 10
 
 3. Objects  
 > This is Phase 3 and will be completed... I am planning to do this once the new Object System (.piff -> .cst) are implemented
