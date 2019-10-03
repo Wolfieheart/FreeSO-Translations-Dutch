@@ -1,0 +1,68 @@
+//Taken from De Complete Sims 1 Complete Collectie NL
+//tooltips
+^Volwassene^
+^Kind^
+^Vrouw^
+^Man^
+^Donker^
+^Gemiddeld^
+^Licht^
+^Het Vorige Lichaam^
+^Het Volgende Lichaam^
+^Het Vorige Hoofd^
+^Het Volgende Hoofd^
+^Klaar^
+^Annuleren^
+
+^Geen Persoonlijkheid!^
+^Weet u zeker dat u %s wilt creëren zonder persoonlijkheid?^
+
+// not used yet, but will be:
+^SIM AANMAKEN^
+^PERSOONLIJKHEID^
+^Netjes^
+^Hartelijk^
+^Actief^
+^Speels^
+^Aardig^
+^Klaar^
+^Annuleren^
+^BIO^
+^Biografie van %s^
+
+^Voornaam invoeren:^
+^Astrologische teken^
+/* tooltips
+
+^Adult^
+^Child^
+^Female^
+^Male^
+^Dark^
+^Medium^
+^Light^
+^Previous Body^
+^Next Body^
+^Previous Head^
+^Next Head^
+^Done^
+^Cancel^
+
+^No Personality!^
+^Are you sure you want to create %s with no personality?^
+
+// not used yet, but will be:
+^CREATE A CHARACTER^
+^PERSONALITY^
+^Neat^
+^Outgoing^
+^Active^
+^Playful^
+^Nice^
+^DONE^
+^CANCEL^
+^BIO^
+^Bio for %s^
+
+^Enter Name:^
+^Astrological Sign^*/

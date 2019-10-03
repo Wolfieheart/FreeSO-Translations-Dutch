@@ -1,0 +1,53 @@
+//Taken from De Complete Sims 1 Complete Collectie NL
+kEvictHouseXXX
+^Het huis slopen?^
+^Wil je dit huis slopen?^
+
+kEvictFamilyXXX
+^Familie uit hun huis zetten?^
+^De familie %s heeft een netto waarde van %s.  Wil je hen huis uitzetten?^
+
+kEvictNothingXXX
+^Niets om te Bulldozeren^
+^Er is hier niets om te bulldozeren.^
+
+kEvictCommunityXXX
+^Openbare kavel^
+^Je kunt de openbare ruimte niet met een bulldozer opblazen.^
+
+kEvictMarqueeXXX
+^Sorry^
+^Je kunt de SimEstates-tent niet met een bulldozer opblazen....^
+
+kEvictCountNotXXX
+^Fout^
+^Kon niet verdrijven!^
+
+^Sorry^
+^Je kunt het lescentrum niet met een bulldozer opblazen....^
+/* kEvictHouseXXX
+^Bulldoze House?^
+^Do you want to bulldoze this house?^
+
+kEvictFamilyXXX
+^Evict Family?^
+^The %s family has net worth of %s.  Do you want to evict them?^
+
+kEvictNothingXXX
+^Nothing to Bulldoze^
+^There is nothing here to bulldoze.^
+
+kEvictCommunityXXX
+^Community Space^
+^You cannot bulldoze community space.^
+
+kEvictMarqueeXXX
+^Sorry^
+^You cannot bulldoze the SimEstates marquee.^
+
+kEvictCountNotXXX
+^Error^
+^Could not evict!^
+
+^Sorry^
+^You cannot bulldoze the tutorial house.^*/
