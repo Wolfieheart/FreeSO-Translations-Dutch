@@ -70,7 +70,7 @@
 50 ^Je kunt een gemeentehuis niet in een buurt plaatsen waar het niet voor bedoeld is. Uw gemeentehuis moet worden geplaatst in %s.^
 51 ^Hoe verleidelijk het ook is, je kunt mensen niet dwingen hun huizen te verlaten om het gemeentehuis hier te plaatsen. We doen alsof je dat niet geprobeerd hebt en laten je een andere locatie kiezen. :)^
 
-52 ^Je hebt het gemeentehuis voor %s geplaatst. Als burgemeester mag u de naam en beschrijving van het gemeentehuis veranderen op de Eigendomspagina. Aangezien het een gemeenschappelijk perceel is, kan iedereen die volgens uw toegangsinstellingen is toegestaan, het pand ook openen.^
+52 ^Je hebt het gemeentehuis voor %s geplaatst. Als burgemeester mag u de naam en beschrijving van het gemeentehuis veranderen op de Eigendomspagina. Aangezien het een openbare kavel is, kan iedereen die volgens uw toegangsinstellingen is toegestaan, het pand ook openen.^
 
 //rating dialog
 53 ^Inzenden Beoordeling^
@@ -127,12 +127,12 @@
 
 //more town hall strings
 90 ^Je hebt minstens $2000 nodig om een woning van het gemeentehuis te plaatsen of te verplaatsen, om de verwerkingskosten te dekken.^
-91 ^Je plaatst nu het gemeentehuis voor %s. Dit vervangt alle controles voor het verplaatsen van je eigen eigendom in het stadsbeeld - je blijft in deze modus zolang je de indicator in de titelbalk ziet. Een perceel kopen in deze modus kost $2000, ongeacht de locatie! Als je van gedachten verandert, klik dan op Annuleren om terug te keren.
+91 ^Je plaatst nu het gemeentehuis voor %s. Dit vervangt alle controles voor het verplaatsen van je eigen eigendom in het stadsbeeld - je blijft in deze modus zolang je de indicator in de titelbalk ziet. Een kavel kopen in deze modus kost $2000, ongeacht de locatie! Als je van gedachten verandert, klik dan op Annuleren om terug te keren.
 
 Je kunt een gemeentehuis alleen plaatsen in de buurt waar je burgemeester bent, en je kunt het niet plaatsen op een land dat al bezet is (uiteraard). De locatie van het gemeentehuis kan later worden gewijzigd voor dezelfde prijs van $2000, als er een betere locatie wordt geopend of als u een verandering van omgeving wilt.^
 
 92 ^Plaatsen met een gemeenschappelijke categorie^
-93 ^Je kunt de categorie van een gemeenschappelijk perceel niet veranderen.^
+93 ^Je kunt de categorie van een openbare kavel niet veranderen.^
 
 94 ^Klik om deze beoordeling te bekijken^
 95 ^Klik om alle beoordeling te bekijken^
