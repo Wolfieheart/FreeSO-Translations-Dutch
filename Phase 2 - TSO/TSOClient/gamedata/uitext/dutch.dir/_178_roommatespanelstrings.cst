@@ -1,3 +1,12 @@
+1  ^Kamergenoten:^
+2  ^Bouwvergunning^
+3  ^Schakel dit vakje uit om bouwvergunningen te verwijderen.^
+4  ^Vink dit vakje aan om bouwvergunning te verlenen.^
+5  ^Instellingen opslaan^
+6  ^Sorry, uw %s privilege is ingetrokken door de eigenaar van de woning!^
+7  ^RKamergenoot privileges^
+
+/*
 1  ^Roommates:^
 2  ^Build Permission^
 3  ^Uncheck this box to remove build permission^
@@ -5,3 +14,4 @@
 5  ^Save settings^
 6  ^Sorry, your %s privilege has been revoked by the property owner!^
 7  ^Roommate Privileges^
+*/

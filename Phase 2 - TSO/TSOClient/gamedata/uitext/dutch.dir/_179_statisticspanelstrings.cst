@@ -1,3 +1,19 @@
+1  ^Eigendomsstatistieken:^
+2  ^Vierkante Voeten:^
+3  ^Slaapkamers:^
+4  ^Badkamers:^
+5  ^Vloeren:^
+6  ^Kavelgrootte:^
+7  ^Grootte^
+8  ^Meubilair^
+9  ^Tuin^
+10 ^Onderhoud^
+11 ^Layout^
+12 ^Klein^
+13 ^Middel^
+14 ^Groot^
+
+/*
 1  ^Property Statistics:^
 2  ^Square Feet:^
 3  ^Bedrooms:^
@@ -12,3 +28,4 @@
 12 ^Small^
 13 ^Medium^
 14 ^Large^
+*/

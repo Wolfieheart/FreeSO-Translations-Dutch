@@ -1,3 +1,16 @@
+1  ^Kamergenoten^
+2  ^Bezoekers^
+3  ^Evenementen^
+4  ^Scroll omhoog^
+5  ^Scroll omlaag^
+6  ^Volgende Pagina^
+7  ^Vorige Pagina^
+8  ^Logboek^
+9  ^Recente Kamergenoot activiteiten^
+10 ^Recente Evenementen^
+11 ^Recente Bezoekers^
+
+/*
 1  ^Roommates^
 2  ^Visitors^
 3  ^Events^
@@ -9,3 +22,4 @@
 9  ^Recent Roommate Activities^
 10 ^Recent Events^
 11 ^Recent Visitors^
+*/

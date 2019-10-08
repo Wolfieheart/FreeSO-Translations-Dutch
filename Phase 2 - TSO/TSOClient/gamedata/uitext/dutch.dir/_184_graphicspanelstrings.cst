@@ -1,0 +1,23 @@
+1 ^Anti-Alias^
+2 ^Schaduwen^
+3 ^Verlichting^
+4 ^Interface-effecten^
+5 ^Laag^
+6 ^Middel^
+7 ^Hoog^
+8 ^Terrein Detail^
+9 ^Karakter Detail^
+10 ^Randschuiven^
+
+/*
+1 ^Anti-Alias^
+2 ^Shadows^
+3 ^Lighting^
+4 ^Interface Effects^
+5 ^Low^
+6 ^Medium^
+7 ^High^
+8 ^Terrain Detail^
+9 ^Character Detail^
+10 ^Edge Scrolling^
+*/

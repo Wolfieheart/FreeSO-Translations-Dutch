@@ -1,3 +1,28 @@
+1  ^Vorige Pagina^
+2  ^Volgende Pagina^
+3  ^Zitplaats^
+4  ^Oppervlakken^
+5  ^Decoratief^
+6  ^Vermaak^
+7  ^Toestellen^
+8  ^Vaardigheden en Banen objecten^
+9  ^Verlichting^
+10 ^Overige^
+11 ^Woonkamer^
+12 ^Eetkamer^
+13 ^Slaapkamer^
+14 ^Study Room^
+15 ^Keuken^
+16 ^Badkamer^
+17 ^Buiten^
+18 ^Inventaris^
+19 ^U kunt geen objecten op dit terrein plaatsen als bezoeker, maar u kunt nog wel objecten terugverkopen of inventarisgoederen verhandelen.^
+20 ^MapBuildingMode^
+21 ^Huisdieren en huisdieren objecten^
+22 ^U kunt dit object niet in deze kavel plaatsen, omdat het hier al staat. Om dit probleem op te lossen, moet de kavel worden gesloten en heropend.^
+23 ^U kunt geen objecten op dit terrein plaatsen als een spook.^
+
+/*
 1  ^Previous Page^
 2  ^Next Page^
 3  ^Seating^
@@ -21,3 +46,4 @@
 21 ^Pets and Pet Objects^
 22 ^You cannot place this object in this lot, as it is already here. To resolve this problem, the lot must be closed and reopened.^
 23 ^You cannot place objects on this property as a ghost.^
+*/

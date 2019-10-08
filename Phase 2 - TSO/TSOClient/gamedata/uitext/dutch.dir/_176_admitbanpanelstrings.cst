@@ -1,3 +1,15 @@
+1  ^Alles toelating^
+2  ^Toelatingslijst^
+3  ^Verbodlijst^
+4  ^Alles verbieden^
+5  ^Vorige Pagina^
+6  ^Volgende Pagina^
+7  ^Alles toelating:^
+8  ^Toelatingslijst:^
+9  ^Verbodlijst:^
+10 ^Alles verbieden:^
+
+/*
 1  ^Admit All^
 2  ^Admit List^
 3  ^Ban List^
@@ -8,3 +20,4 @@
 8  ^Admit List:^
 9  ^Ban List:^
 10 ^Ban All:^
+*/

@@ -1,3 +1,15 @@
+1 ^Vorige Pagina^
+2 ^Volgende Pagina^
+3 ^Behoeften^
+4 ^Hulp^
+5 ^Sluiten^
+6 ^Bericht!^
+7 ^Timer!^
+8 ^Uitbreiden^
+9 ^Contract^
+10 ^Resterende tijd^
+
+/*
 1 ^Previous Page^
 2 ^Next Page^
 3 ^Needs^
@@ -8,4 +20,5 @@
 8 ^Expand^
 9 ^Contract^
 10 ^Time Remaining^
+*/
 
