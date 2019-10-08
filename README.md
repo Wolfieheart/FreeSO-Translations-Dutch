@@ -7,7 +7,7 @@ This repo is maintained by W0lfstorm. You can see my progress for this project h
 
 As I outlined over on the FreeSO Forums, this project will be split into 2 parts:
 
-1. UI Texts from FreeSO (ETA: October 5th 2019 || Awaiting final checks of EOD Files)  
+1. UI Texts from FreeSO (Awaiting final checks of EOD Files)  
 > This is what I am currently working on. There are 25 files to be translated, of which all have 10+ strings of text. 
 > These are the things that the user will see and interact with almost everyday, so the language in this will need to be correct. 
 
